@@ -1,0 +1,22 @@
+{
+  "name": "historio-borders",
+  "private": true,
+  "type": "module",
+  "license": "GPL-3.0-only",
+  "description": "Derived border data of HistorIO and the scripts that build it",
+  "scripts": {
+    "fetch:hb": "node scripts/data/borders.mjs",
+    "fetch:states": "node scripts/data/clio/fetch.mjs",
+    "build:states": "node scripts/data/clio/build-states.mjs",
+    "build:peoples": "node scripts/data/clio/build-peoples.mjs",
+    "index": "node scripts/data/clio/index.mjs",
+    "test": "node scripts/data/clio/golden.mjs"
+  },
+  "dependencies": {
+    "mapshaper": "^0.7.84",
+    "@turf/turf": "^7.4.0",
+    "polylabel": "^2.1.0",
+    "d3-geo": "^3.1.1",
+    "topojson-client": "^3.1.0"
+  }
+}

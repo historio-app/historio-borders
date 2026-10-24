@@ -1,0 +1,8279 @@
+{
+ "frames": [
+  {
+   "y": -3000,
+   "active": 4,
+   "rows": 4,
+   "sumKm2": 148666,
+   "unionKm2": 148666,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 529
+  },
+  {
+   "y": -2700,
+   "active": 3,
+   "rows": 3,
+   "sumKm2": 188955,
+   "unionKm2": 188955,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -2500,
+   "active": 3,
+   "rows": 3,
+   "sumKm2": 240213,
+   "unionKm2": 240213,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -2300,
+   "active": 4,
+   "rows": 4,
+   "sumKm2": 1248381,
+   "unionKm2": 1248381,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -2250,
+   "active": 3,
+   "rows": 3,
+   "sumKm2": 1376381,
+   "unionKm2": 1376381,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -2200,
+   "active": 5,
+   "rows": 5,
+   "sumKm2": 1236792,
+   "unionKm2": 1236792,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -2154,
+   "active": 5,
+   "rows": 5,
+   "sumKm2": 1007291,
+   "unionKm2": 1007291,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -2119,
+   "active": 5,
+   "rows": 5,
+   "sumKm2": 952721,
+   "unionKm2": 952721,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -2112,
+   "active": 5,
+   "rows": 5,
+   "sumKm2": 1236792,
+   "unionKm2": 1236792,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -2100,
+   "active": 5,
+   "rows": 5,
+   "sumKm2": 1172091,
+   "unionKm2": 1172091,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -2003,
+   "active": 5,
+   "rows": 5,
+   "sumKm2": 929464,
+   "unionKm2": 929464,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -2000,
+   "active": 4,
+   "rows": 4,
+   "sumKm2": 1015014,
+   "unionKm2": 1015014,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 9587
+  },
+  {
+   "y": -1800,
+   "active": 7,
+   "rows": 7,
+   "sumKm2": 1023275,
+   "unionKm2": 1023275,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -1760,
+   "active": 6,
+   "rows": 6,
+   "sumKm2": 916331,
+   "unionKm2": 916331,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -1750,
+   "active": 6,
+   "rows": 6,
+   "sumKm2": 1013867,
+   "unionKm2": 1013867,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -1700,
+   "active": 6,
+   "rows": 6,
+   "sumKm2": 799697,
+   "unionKm2": 799697,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -1600,
+   "active": 11,
+   "rows": 11,
+   "sumKm2": 729696,
+   "unionKm2": 729696,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -1500,
+   "active": 11,
+   "rows": 11,
+   "sumKm2": 1406179,
+   "unionKm2": 1406179,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 12424
+  },
+  {
+   "y": -1400,
+   "active": 8,
+   "rows": 8,
+   "sumKm2": 1612027,
+   "unionKm2": 1612027,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -1300,
+   "active": 8,
+   "rows": 8,
+   "sumKm2": 1714612,
+   "unionKm2": 1714612,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -1240,
+   "active": 7,
+   "rows": 7,
+   "sumKm2": 1908381,
+   "unionKm2": 1908381,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -1220,
+   "active": 6,
+   "rows": 6,
+   "sumKm2": 1908768,
+   "unionKm2": 1908768,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -1200,
+   "active": 7,
+   "rows": 7,
+   "sumKm2": 1909367,
+   "unionKm2": 1909367,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -1150,
+   "active": 8,
+   "rows": 8,
+   "sumKm2": 1627863,
+   "unionKm2": 1627863,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -1100,
+   "active": 9,
+   "rows": 9,
+   "sumKm2": 1617974,
+   "unionKm2": 1617974,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -1000,
+   "active": 11,
+   "rows": 11,
+   "sumKm2": 1574502,
+   "unionKm2": 1574502,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 22196
+  },
+  {
+   "y": -900,
+   "active": 14,
+   "rows": 14,
+   "sumKm2": 1982792,
+   "unionKm2": 1982792,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -800,
+   "active": 15,
+   "rows": 15,
+   "sumKm2": 2047712,
+   "unionKm2": 2047712,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -750,
+   "active": 33,
+   "rows": 33,
+   "sumKm2": 2562692,
+   "unionKm2": 2562692,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -700,
+   "active": 29,
+   "rows": 29,
+   "sumKm2": 3007285,
+   "unionKm2": 3007285,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 35623
+  },
+  {
+   "y": -675,
+   "active": 29,
+   "rows": 29,
+   "sumKm2": 3124238,
+   "unionKm2": 3124238,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -650,
+   "active": 34,
+   "rows": 34,
+   "sumKm2": 4931969,
+   "unionKm2": 4931969,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -630,
+   "active": 32,
+   "rows": 32,
+   "sumKm2": 5105895,
+   "unionKm2": 5105895,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -615,
+   "active": 35,
+   "rows": 35,
+   "sumKm2": 7138826,
+   "unionKm2": 7138826,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -600,
+   "active": 49,
+   "rows": 49,
+   "sumKm2": 7339202,
+   "unionKm2": 7339202,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -550,
+   "active": 49,
+   "rows": 49,
+   "sumKm2": 7167389,
+   "unionKm2": 7167389,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -540,
+   "active": 48,
+   "rows": 48,
+   "sumKm2": 7270326,
+   "unionKm2": 7270326,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -530,
+   "active": 47,
+   "rows": 47,
+   "sumKm2": 7274849,
+   "unionKm2": 7274849,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -500,
+   "active": 45,
+   "rows": 45,
+   "sumKm2": 8192483,
+   "unionKm2": 8192483,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 62222
+  },
+  {
+   "y": -480,
+   "active": 43,
+   "rows": 43,
+   "sumKm2": 8283562,
+   "unionKm2": 8283562,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -450,
+   "active": 34,
+   "rows": 34,
+   "sumKm2": 8685653,
+   "unionKm2": 8685653,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -404,
+   "active": 32,
+   "rows": 32,
+   "sumKm2": 9561661,
+   "unionKm2": 9561661,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -400,
+   "active": 32,
+   "rows": 32,
+   "sumKm2": 9561661,
+   "unionKm2": 9561661,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 69533
+  },
+  {
+   "y": -383,
+   "active": 34,
+   "rows": 34,
+   "sumKm2": 9524288,
+   "unionKm2": 9524288,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -366,
+   "active": 36,
+   "rows": 36,
+   "sumKm2": 9534897,
+   "unionKm2": 9534897,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -350,
+   "active": 35,
+   "rows": 35,
+   "sumKm2": 9166812,
+   "unionKm2": 9166812,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -337,
+   "active": 30,
+   "rows": 30,
+   "sumKm2": 9151732,
+   "unionKm2": 9151732,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -333,
+   "active": 31,
+   "rows": 31,
+   "sumKm2": 10254996,
+   "unionKm2": 10254996,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -331,
+   "active": 33,
+   "rows": 33,
+   "sumKm2": 10064489,
+   "unionKm2": 10064489,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -326,
+   "active": 33,
+   "rows": 33,
+   "sumKm2": 10421879,
+   "unionKm2": 10421879,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -323,
+   "active": 36,
+   "rows": 36,
+   "sumKm2": 10397917,
+   "unionKm2": 10397917,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 81224
+  },
+  {
+   "y": -318,
+   "active": 36,
+   "rows": 36,
+   "sumKm2": 10883952,
+   "unionKm2": 10883952,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -315,
+   "active": 34,
+   "rows": 34,
+   "sumKm2": 11432752,
+   "unionKm2": 11432752,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -307,
+   "active": 37,
+   "rows": 37,
+   "sumKm2": 11428654,
+   "unionKm2": 11428654,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -301,
+   "active": 38,
+   "rows": 38,
+   "sumKm2": 11575035,
+   "unionKm2": 11575035,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -300,
+   "active": 38,
+   "rows": 38,
+   "sumKm2": 11575035,
+   "unionKm2": 11575035,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 88206
+  },
+  {
+   "y": -291,
+   "active": 40,
+   "rows": 40,
+   "sumKm2": 12670008,
+   "unionKm2": 12670008,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -284,
+   "active": 39,
+   "rows": 39,
+   "sumKm2": 12588816,
+   "unionKm2": 12588816,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -283,
+   "active": 39,
+   "rows": 39,
+   "sumKm2": 12667194,
+   "unionKm2": 12667194,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -281,
+   "active": 39,
+   "rows": 39,
+   "sumKm2": 12627109,
+   "unionKm2": 12627109,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -279,
+   "active": 43,
+   "rows": 43,
+   "sumKm2": 12510765,
+   "unionKm2": 12510765,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -277,
+   "active": 43,
+   "rows": 43,
+   "sumKm2": 12589691,
+   "unionKm2": 12589691,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -275,
+   "active": 43,
+   "rows": 43,
+   "sumKm2": 12641996,
+   "unionKm2": 12641996,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -272,
+   "active": 44,
+   "rows": 44,
+   "sumKm2": 12568322,
+   "unionKm2": 12568322,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -271,
+   "active": 45,
+   "rows": 45,
+   "sumKm2": 12622174,
+   "unionKm2": 12622174,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -264,
+   "active": 45,
+   "rows": 45,
+   "sumKm2": 12627805,
+   "unionKm2": 12627805,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -256,
+   "active": 44,
+   "rows": 44,
+   "sumKm2": 12820126,
+   "unionKm2": 12820126,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -247,
+   "active": 43,
+   "rows": 43,
+   "sumKm2": 13034938,
+   "unionKm2": 13034938,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -239,
+   "active": 45,
+   "rows": 45,
+   "sumKm2": 13172436,
+   "unionKm2": 13172436,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -230,
+   "active": 43,
+   "rows": 43,
+   "sumKm2": 13311094,
+   "unionKm2": 13311094,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -225,
+   "active": 43,
+   "rows": 43,
+   "sumKm2": 11062815,
+   "unionKm2": 11062815,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -223,
+   "active": 41,
+   "rows": 41,
+   "sumKm2": 10741696,
+   "unionKm2": 10741696,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -222,
+   "active": 39,
+   "rows": 39,
+   "sumKm2": 10747459,
+   "unionKm2": 10747459,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -218,
+   "active": 38,
+   "rows": 38,
+   "sumKm2": 10854173,
+   "unionKm2": 10854173,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -216,
+   "active": 38,
+   "rows": 38,
+   "sumKm2": 10741786,
+   "unionKm2": 10741786,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -212,
+   "active": 39,
+   "rows": 39,
+   "sumKm2": 11113002,
+   "unionKm2": 11113002,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -210,
+   "active": 38,
+   "rows": 38,
+   "sumKm2": 11333747,
+   "unionKm2": 11333747,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -208,
+   "active": 46,
+   "rows": 46,
+   "sumKm2": 15064930,
+   "unionKm2": 15064930,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -206,
+   "active": 56,
+   "rows": 56,
+   "sumKm2": 14893305,
+   "unionKm2": 14893305,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -203,
+   "active": 40,
+   "rows": 40,
+   "sumKm2": 15601464,
+   "unionKm2": 15601464,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -202,
+   "active": 39,
+   "rows": 39,
+   "sumKm2": 15779946,
+   "unionKm2": 15779946,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -200,
+   "active": 39,
+   "rows": 39,
+   "sumKm2": 15779946,
+   "unionKm2": 15779946,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 114352
+  },
+  {
+   "y": -197,
+   "active": 43,
+   "rows": 43,
+   "sumKm2": 15985821,
+   "unionKm2": 15985821,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -188,
+   "active": 44,
+   "rows": 44,
+   "sumKm2": 16121831,
+   "unionKm2": 16121831,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -170,
+   "active": 43,
+   "rows": 43,
+   "sumKm2": 17772681,
+   "unionKm2": 17772681,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -164,
+   "active": 40,
+   "rows": 40,
+   "sumKm2": 17683037,
+   "unionKm2": 17683037,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -144,
+   "active": 39,
+   "rows": 39,
+   "sumKm2": 18012528,
+   "unionKm2": 18012528,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -126,
+   "active": 37,
+   "rows": 37,
+   "sumKm2": 18332637,
+   "unionKm2": 18332637,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -110,
+   "active": 38,
+   "rows": 38,
+   "sumKm2": 16788239,
+   "unionKm2": 16788239,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -100,
+   "active": 38,
+   "rows": 38,
+   "sumKm2": 16788239,
+   "unionKm2": 16788239,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 162892
+  },
+  {
+   "y": -91,
+   "active": 39,
+   "rows": 39,
+   "sumKm2": 17885767,
+   "unionKm2": 17885767,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -87,
+   "active": 36,
+   "rows": 36,
+   "sumKm2": 17966626,
+   "unionKm2": 17966626,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -77,
+   "active": 37,
+   "rows": 37,
+   "sumKm2": 18649781,
+   "unionKm2": 18649781,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -66,
+   "active": 35,
+   "rows": 35,
+   "sumKm2": 17812759,
+   "unionKm2": 17812759,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -63,
+   "active": 43,
+   "rows": 43,
+   "sumKm2": 17867240,
+   "unionKm2": 17867240,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -50,
+   "active": 46,
+   "rows": 46,
+   "sumKm2": 18932874,
+   "unionKm2": 18932874,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -49,
+   "active": 46,
+   "rows": 46,
+   "sumKm2": 18931836,
+   "unionKm2": 18931836,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -48,
+   "active": 46,
+   "rows": 46,
+   "sumKm2": 18932025,
+   "unionKm2": 18932025,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -46,
+   "active": 45,
+   "rows": 45,
+   "sumKm2": 18931838,
+   "unionKm2": 18931838,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -44,
+   "active": 45,
+   "rows": 45,
+   "sumKm2": 18932232,
+   "unionKm2": 18932232,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -42,
+   "active": 45,
+   "rows": 45,
+   "sumKm2": 18931967,
+   "unionKm2": 18931967,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -41,
+   "active": 45,
+   "rows": 45,
+   "sumKm2": 18931877,
+   "unionKm2": 18931877,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -40,
+   "active": 45,
+   "rows": 45,
+   "sumKm2": 18932531,
+   "unionKm2": 18932531,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -36,
+   "active": 49,
+   "rows": 49,
+   "sumKm2": 19042045,
+   "unionKm2": 19042045,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -31,
+   "active": 49,
+   "rows": 49,
+   "sumKm2": 19180339,
+   "unionKm2": 19180339,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -30,
+   "active": 49,
+   "rows": 49,
+   "sumKm2": 19181602,
+   "unionKm2": 19181602,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -27,
+   "active": 47,
+   "rows": 47,
+   "sumKm2": 18314811,
+   "unionKm2": 18314811,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -25,
+   "active": 44,
+   "rows": 44,
+   "sumKm2": 18409962,
+   "unionKm2": 18409962,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -19,
+   "active": 44,
+   "rows": 44,
+   "sumKm2": 18462162,
+   "unionKm2": 18462162,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -14,
+   "active": 44,
+   "rows": 44,
+   "sumKm2": 18649256,
+   "unionKm2": 18649256,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": -1,
+   "active": 44,
+   "rows": 44,
+   "sumKm2": 18649256,
+   "unionKm2": 18649256,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 181720
+  },
+  {
+   "y": 1,
+   "active": 45,
+   "rows": 45,
+   "sumKm2": 18718091,
+   "unionKm2": 18718091,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 6,
+   "active": 45,
+   "rows": 45,
+   "sumKm2": 18786494,
+   "unionKm2": 18786494,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 9,
+   "active": 45,
+   "rows": 45,
+   "sumKm2": 18614220,
+   "unionKm2": 18614220,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 14,
+   "active": 43,
+   "rows": 43,
+   "sumKm2": 17843869,
+   "unionKm2": 17843869,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 23,
+   "active": 41,
+   "rows": 41,
+   "sumKm2": 16712829,
+   "unionKm2": 16712829,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 30,
+   "active": 42,
+   "rows": 42,
+   "sumKm2": 17985817,
+   "unionKm2": 17985817,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 43,
+   "active": 44,
+   "rows": 44,
+   "sumKm2": 18081098,
+   "unionKm2": 18081098,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 51,
+   "active": 43,
+   "rows": 43,
+   "sumKm2": 18447336,
+   "unionKm2": 18447336,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 60,
+   "active": 43,
+   "rows": 43,
+   "sumKm2": 19427053,
+   "unionKm2": 19427053,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 68,
+   "active": 42,
+   "rows": 42,
+   "sumKm2": 20209205,
+   "unionKm2": 20209205,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 78,
+   "active": 42,
+   "rows": 42,
+   "sumKm2": 19459351,
+   "unionKm2": 19459351,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 84,
+   "active": 42,
+   "rows": 42,
+   "sumKm2": 19653272,
+   "unionKm2": 19653272,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 91,
+   "active": 41,
+   "rows": 41,
+   "sumKm2": 19829743,
+   "unionKm2": 19829743,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 100,
+   "active": 41,
+   "rows": 41,
+   "sumKm2": 19829743,
+   "unionKm2": 19829743,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 210718
+  },
+  {
+   "y": 106,
+   "active": 40,
+   "rows": 40,
+   "sumKm2": 20796668,
+   "unionKm2": 20796668,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 114,
+   "active": 36,
+   "rows": 36,
+   "sumKm2": 20805033,
+   "unionKm2": 20805033,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 117,
+   "active": 36,
+   "rows": 36,
+   "sumKm2": 20804234,
+   "unionKm2": 20804234,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 127,
+   "active": 39,
+   "rows": 39,
+   "sumKm2": 21039940,
+   "unionKm2": 21039940,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 154,
+   "active": 41,
+   "rows": 41,
+   "sumKm2": 20816693,
+   "unionKm2": 20816693,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 161,
+   "active": 40,
+   "rows": 40,
+   "sumKm2": 22455973,
+   "unionKm2": 22455973,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 165,
+   "active": 42,
+   "rows": 42,
+   "sumKm2": 22456659,
+   "unionKm2": 22456659,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 184,
+   "active": 41,
+   "rows": 41,
+   "sumKm2": 22447760,
+   "unionKm2": 22447760,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 197,
+   "active": 42,
+   "rows": 42,
+   "sumKm2": 22443969,
+   "unionKm2": 22443969,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 200,
+   "active": 42,
+   "rows": 42,
+   "sumKm2": 22443969,
+   "unionKm2": 22443969,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 206118
+  },
+  {
+   "y": 207,
+   "active": 44,
+   "rows": 44,
+   "sumKm2": 22622230,
+   "unionKm2": 22622230,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 215,
+   "active": 44,
+   "rows": 44,
+   "sumKm2": 22597908,
+   "unionKm2": 22597908,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 224,
+   "active": 43,
+   "rows": 43,
+   "sumKm2": 17520378,
+   "unionKm2": 17520378,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 238,
+   "active": 42,
+   "rows": 42,
+   "sumKm2": 16919816,
+   "unionKm2": 16919816,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 247,
+   "active": 42,
+   "rows": 42,
+   "sumKm2": 16909280,
+   "unionKm2": 16909280,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 260,
+   "active": 38,
+   "rows": 38,
+   "sumKm2": 17544911,
+   "unionKm2": 17544911,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 261,
+   "active": 40,
+   "rows": 40,
+   "sumKm2": 17325248,
+   "unionKm2": 17325248,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 263,
+   "active": 40,
+   "rows": 40,
+   "sumKm2": 17327919,
+   "unionKm2": 17327919,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 265,
+   "active": 40,
+   "rows": 40,
+   "sumKm2": 17327641,
+   "unionKm2": 17327641,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 270,
+   "active": 40,
+   "rows": 40,
+   "sumKm2": 17144938,
+   "unionKm2": 17144938,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 283,
+   "active": 38,
+   "rows": 38,
+   "sumKm2": 17352634,
+   "unionKm2": 17352634,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 287,
+   "active": 43,
+   "rows": 43,
+   "sumKm2": 17603295,
+   "unionKm2": 17603295,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 299,
+   "active": 43,
+   "rows": 43,
+   "sumKm2": 17787054,
+   "unionKm2": 17787054,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 300,
+   "active": 43,
+   "rows": 43,
+   "sumKm2": 17787054,
+   "unionKm2": 17787054,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 223032
+  },
+  {
+   "y": 306,
+   "active": 43,
+   "rows": 43,
+   "sumKm2": 18220134,
+   "unionKm2": 18220134,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 308,
+   "active": 43,
+   "rows": 43,
+   "sumKm2": 18219788,
+   "unionKm2": 18219788,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 311,
+   "active": 43,
+   "rows": 43,
+   "sumKm2": 18220816,
+   "unionKm2": 18220816,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 313,
+   "active": 43,
+   "rows": 43,
+   "sumKm2": 18220669,
+   "unionKm2": 18220669,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 324,
+   "active": 45,
+   "rows": 45,
+   "sumKm2": 18368026,
+   "unionKm2": 18368026,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 337,
+   "active": 47,
+   "rows": 47,
+   "sumKm2": 18394491,
+   "unionKm2": 18394491,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 338,
+   "active": 47,
+   "rows": 47,
+   "sumKm2": 18394201,
+   "unionKm2": 18394201,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 347,
+   "active": 46,
+   "rows": 46,
+   "sumKm2": 19205263,
+   "unionKm2": 19205263,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 353,
+   "active": 49,
+   "rows": 49,
+   "sumKm2": 19299083,
+   "unionKm2": 19299083,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 358,
+   "active": 50,
+   "rows": 50,
+   "sumKm2": 19330144,
+   "unionKm2": 19330144,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 367,
+   "active": 51,
+   "rows": 51,
+   "sumKm2": 19264517,
+   "unionKm2": 19264517,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 371,
+   "active": 48,
+   "rows": 48,
+   "sumKm2": 19616293,
+   "unionKm2": 19616293,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 373,
+   "active": 47,
+   "rows": 47,
+   "sumKm2": 19753886,
+   "unionKm2": 19753886,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 378,
+   "active": 45,
+   "rows": 45,
+   "sumKm2": 19752338,
+   "unionKm2": 19752338,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 383,
+   "active": 44,
+   "rows": 44,
+   "sumKm2": 19721476,
+   "unionKm2": 19721476,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 387,
+   "active": 53,
+   "rows": 53,
+   "sumKm2": 20059374,
+   "unionKm2": 20059374,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 390,
+   "active": 53,
+   "rows": 53,
+   "sumKm2": 20059139,
+   "unionKm2": 20059139,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 392,
+   "active": 52,
+   "rows": 52,
+   "sumKm2": 20059769,
+   "unionKm2": 20059769,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 394,
+   "active": 50,
+   "rows": 50,
+   "sumKm2": 20060136,
+   "unionKm2": 20060136,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 395,
+   "active": 51,
+   "rows": 51,
+   "sumKm2": 20057520,
+   "unionKm2": 20057520,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 396,
+   "active": 51,
+   "rows": 51,
+   "sumKm2": 20060643,
+   "unionKm2": 20060643,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 397,
+   "active": 53,
+   "rows": 53,
+   "sumKm2": 20056641,
+   "unionKm2": 20056641,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 400,
+   "active": 53,
+   "rows": 53,
+   "sumKm2": 20056641,
+   "unionKm2": 20056641,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 238590
+  },
+  {
+   "y": 402,
+   "active": 54,
+   "rows": 54,
+   "sumKm2": 23643102,
+   "unionKm2": 23643102,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 407,
+   "active": 55,
+   "rows": 55,
+   "sumKm2": 23744663,
+   "unionKm2": 23744663,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 410,
+   "active": 54,
+   "rows": 54,
+   "sumKm2": 23684224,
+   "unionKm2": 23684224,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 414,
+   "active": 56,
+   "rows": 56,
+   "sumKm2": 23654937,
+   "unionKm2": 23654937,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 417,
+   "active": 55,
+   "rows": 55,
+   "sumKm2": 23655131,
+   "unionKm2": 23655131,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 426,
+   "active": 55,
+   "rows": 55,
+   "sumKm2": 23664261,
+   "unionKm2": 23664261,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 439,
+   "active": 50,
+   "rows": 50,
+   "sumKm2": 23656361,
+   "unionKm2": 23656361,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 441,
+   "active": 50,
+   "rows": 50,
+   "sumKm2": 23754060,
+   "unionKm2": 23754060,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 443,
+   "active": 51,
+   "rows": 51,
+   "sumKm2": 23753459,
+   "unionKm2": 23753459,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 451,
+   "active": 50,
+   "rows": 50,
+   "sumKm2": 24405663,
+   "unionKm2": 24405663,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 452,
+   "active": 50,
+   "rows": 50,
+   "sumKm2": 24374527,
+   "unionKm2": 24374527,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 455,
+   "active": 52,
+   "rows": 52,
+   "sumKm2": 23571681,
+   "unionKm2": 23571681,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 458,
+   "active": 52,
+   "rows": 52,
+   "sumKm2": 23711206,
+   "unionKm2": 23711206,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 459,
+   "active": 52,
+   "rows": 52,
+   "sumKm2": 23711787,
+   "unionKm2": 23711787,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 462,
+   "active": 54,
+   "rows": 54,
+   "sumKm2": 23766651,
+   "unionKm2": 23766651,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 469,
+   "active": 55,
+   "rows": 55,
+   "sumKm2": 23058591,
+   "unionKm2": 23058591,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 476,
+   "active": 58,
+   "rows": 58,
+   "sumKm2": 23000492,
+   "unionKm2": 23000492,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 480,
+   "active": 58,
+   "rows": 58,
+   "sumKm2": 23025292,
+   "unionKm2": 23025292,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 490,
+   "active": 56,
+   "rows": 56,
+   "sumKm2": 23294063,
+   "unionKm2": 23294063,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 493,
+   "active": 56,
+   "rows": 56,
+   "sumKm2": 23294049,
+   "unionKm2": 23294049,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 494,
+   "active": 55,
+   "rows": 55,
+   "sumKm2": 23293524,
+   "unionKm2": 23293524,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 500,
+   "active": 54,
+   "rows": 54,
+   "sumKm2": 23529033,
+   "unionKm2": 23529033,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 233171
+  },
+  {
+   "y": 510,
+   "active": 53,
+   "rows": 53,
+   "sumKm2": 23906275,
+   "unionKm2": 23906275,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 523,
+   "active": 54,
+   "rows": 54,
+   "sumKm2": 23916905,
+   "unionKm2": 23916905,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 534,
+   "active": 56,
+   "rows": 56,
+   "sumKm2": 22958003,
+   "unionKm2": 22958003,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 536,
+   "active": 56,
+   "rows": 56,
+   "sumKm2": 22958925,
+   "unionKm2": 22958925,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 540,
+   "active": 64,
+   "rows": 64,
+   "sumKm2": 23204314,
+   "unionKm2": 23204314,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 546,
+   "active": 64,
+   "rows": 64,
+   "sumKm2": 23194968,
+   "unionKm2": 23194968,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 555,
+   "active": 67,
+   "rows": 67,
+   "sumKm2": 23770662,
+   "unionKm2": 23770662,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 561,
+   "active": 68,
+   "rows": 68,
+   "sumKm2": 24067703,
+   "unionKm2": 24067703,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 567,
+   "active": 68,
+   "rows": 68,
+   "sumKm2": 24068080,
+   "unionKm2": 24068080,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 569,
+   "active": 68,
+   "rows": 68,
+   "sumKm2": 24068784,
+   "unionKm2": 24068784,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 577,
+   "active": 70,
+   "rows": 70,
+   "sumKm2": 24067795,
+   "unionKm2": 24067795,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 587,
+   "active": 67,
+   "rows": 67,
+   "sumKm2": 23738975,
+   "unionKm2": 23738975,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 592,
+   "active": 70,
+   "rows": 70,
+   "sumKm2": 24009931,
+   "unionKm2": 24009931,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 600,
+   "active": 70,
+   "rows": 70,
+   "sumKm2": 24009931,
+   "unionKm2": 24009931,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 263646
+  },
+  {
+   "y": 602,
+   "active": 69,
+   "rows": 69,
+   "sumKm2": 24338482,
+   "unionKm2": 24338482,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 612,
+   "active": 68,
+   "rows": 68,
+   "sumKm2": 24806453,
+   "unionKm2": 24806453,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 617,
+   "active": 65,
+   "rows": 65,
+   "sumKm2": 24692681,
+   "unionKm2": 24692681,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 623,
+   "active": 69,
+   "rows": 69,
+   "sumKm2": 25297855,
+   "unionKm2": 25297855,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 626,
+   "active": 67,
+   "rows": 67,
+   "sumKm2": 25692077,
+   "unionKm2": 25692077,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 627,
+   "active": 67,
+   "rows": 67,
+   "sumKm2": 26413084,
+   "unionKm2": 26413084,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 628,
+   "active": 65,
+   "rows": 65,
+   "sumKm2": 26939281,
+   "unionKm2": 26939281,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 629,
+   "active": 68,
+   "rows": 68,
+   "sumKm2": 27037094,
+   "unionKm2": 27037094,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 630,
+   "active": 68,
+   "rows": 68,
+   "sumKm2": 27012912,
+   "unionKm2": 27012912,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 633,
+   "active": 69,
+   "rows": 69,
+   "sumKm2": 29283825,
+   "unionKm2": 29283825,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 634,
+   "active": 66,
+   "rows": 66,
+   "sumKm2": 29986413,
+   "unionKm2": 29986413,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 638,
+   "active": 71,
+   "rows": 71,
+   "sumKm2": 29969968,
+   "unionKm2": 29969968,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 641,
+   "active": 71,
+   "rows": 71,
+   "sumKm2": 29968226,
+   "unionKm2": 29968226,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 644,
+   "active": 75,
+   "rows": 75,
+   "sumKm2": 29989916,
+   "unionKm2": 29989916,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 647,
+   "active": 71,
+   "rows": 71,
+   "sumKm2": 27025156,
+   "unionKm2": 27025156,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 652,
+   "active": 70,
+   "rows": 70,
+   "sumKm2": 26844077,
+   "unionKm2": 26844077,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 656,
+   "active": 69,
+   "rows": 69,
+   "sumKm2": 27244333,
+   "unionKm2": 27244333,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 661,
+   "active": 68,
+   "rows": 68,
+   "sumKm2": 27363736,
+   "unionKm2": 27363736,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 666,
+   "active": 67,
+   "rows": 67,
+   "sumKm2": 27000466,
+   "unionKm2": 27000466,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 674,
+   "active": 69,
+   "rows": 69,
+   "sumKm2": 26494022,
+   "unionKm2": 26494022,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 681,
+   "active": 70,
+   "rows": 70,
+   "sumKm2": 26543108,
+   "unionKm2": 26543108,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 682,
+   "active": 68,
+   "rows": 68,
+   "sumKm2": 22840057,
+   "unionKm2": 22840057,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 692,
+   "active": 68,
+   "rows": 68,
+   "sumKm2": 28814126,
+   "unionKm2": 28814126,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 700,
+   "active": 68,
+   "rows": 68,
+   "sumKm2": 28814126,
+   "unionKm2": 28814126,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 328292
+  },
+  {
+   "y": 705,
+   "active": 68,
+   "rows": 68,
+   "sumKm2": 29251984,
+   "unionKm2": 29251984,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 710,
+   "active": 69,
+   "rows": 69,
+   "sumKm2": 29252224,
+   "unionKm2": 29252224,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 718,
+   "active": 69,
+   "rows": 69,
+   "sumKm2": 29822068,
+   "unionKm2": 29822068,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 724,
+   "active": 69,
+   "rows": 69,
+   "sumKm2": 29814536,
+   "unionKm2": 29814536,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 732,
+   "active": 67,
+   "rows": 67,
+   "sumKm2": 30409721,
+   "unionKm2": 30409721,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 741,
+   "active": 71,
+   "rows": 71,
+   "sumKm2": 30618403,
+   "unionKm2": 30618403,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 750,
+   "active": 76,
+   "rows": 76,
+   "sumKm2": 31483214,
+   "unionKm2": 31483214,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 751,
+   "active": 77,
+   "rows": 77,
+   "sumKm2": 31472130,
+   "unionKm2": 31472130,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 755,
+   "active": 79,
+   "rows": 79,
+   "sumKm2": 31688264,
+   "unionKm2": 31688264,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 757,
+   "active": 76,
+   "rows": 76,
+   "sumKm2": 31687990,
+   "unionKm2": 31687990,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 763,
+   "active": 74,
+   "rows": 74,
+   "sumKm2": 31434524,
+   "unionKm2": 31434524,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 768,
+   "active": 75,
+   "rows": 75,
+   "sumKm2": 31458887,
+   "unionKm2": 31458887,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 772,
+   "active": 72,
+   "rows": 72,
+   "sumKm2": 31200217,
+   "unionKm2": 31200217,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 775,
+   "active": 73,
+   "rows": 73,
+   "sumKm2": 31218885,
+   "unionKm2": 31218885,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 778,
+   "active": 72,
+   "rows": 72,
+   "sumKm2": 32004018,
+   "unionKm2": 32004018,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 783,
+   "active": 73,
+   "rows": 73,
+   "sumKm2": 31955300,
+   "unionKm2": 31955300,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 788,
+   "active": 68,
+   "rows": 68,
+   "sumKm2": 32057644,
+   "unionKm2": 32057644,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 793,
+   "active": 78,
+   "rows": 78,
+   "sumKm2": 32551715,
+   "unionKm2": 32551715,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 800,
+   "active": 77,
+   "rows": 77,
+   "sumKm2": 32558668,
+   "unionKm2": 32558668,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 382137
+  },
+  {
+   "y": 806,
+   "active": 73,
+   "rows": 73,
+   "sumKm2": 32422358,
+   "unionKm2": 32422358,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 814,
+   "active": 76,
+   "rows": 76,
+   "sumKm2": 32540880,
+   "unionKm2": 32540880,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 825,
+   "active": 77,
+   "rows": 77,
+   "sumKm2": 33377259,
+   "unionKm2": 33377259,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 830,
+   "active": 77,
+   "rows": 77,
+   "sumKm2": 33104637,
+   "unionKm2": 33104637,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 840,
+   "active": 80,
+   "rows": 80,
+   "sumKm2": 33133741,
+   "unionKm2": 33133741,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 850,
+   "active": 86,
+   "rows": 86,
+   "sumKm2": 28592002,
+   "unionKm2": 28592002,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 860,
+   "active": 89,
+   "rows": 89,
+   "sumKm2": 29500605,
+   "unionKm2": 29500605,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 866,
+   "active": 95,
+   "rows": 95,
+   "sumKm2": 29290224,
+   "unionKm2": 29290224,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 870,
+   "active": 94,
+   "rows": 94,
+   "sumKm2": 29318359,
+   "unionKm2": 29318359,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 875,
+   "active": 97,
+   "rows": 97,
+   "sumKm2": 29686344,
+   "unionKm2": 29686344,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 876,
+   "active": 97,
+   "rows": 97,
+   "sumKm2": 29686939,
+   "unionKm2": 29686939,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 878,
+   "active": 100,
+   "rows": 100,
+   "sumKm2": 29686155,
+   "unionKm2": 29686155,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 880,
+   "active": 102,
+   "rows": 102,
+   "sumKm2": 30161736,
+   "unionKm2": 30161736,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 882,
+   "active": 101,
+   "rows": 101,
+   "sumKm2": 30222712,
+   "unionKm2": 30222712,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 884,
+   "active": 102,
+   "rows": 102,
+   "sumKm2": 30296734,
+   "unionKm2": 30296734,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 886,
+   "active": 104,
+   "rows": 104,
+   "sumKm2": 30530641,
+   "unionKm2": 30530641,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 887,
+   "active": 107,
+   "rows": 107,
+   "sumKm2": 30532842,
+   "unionKm2": 30532842,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 888,
+   "active": 108,
+   "rows": 108,
+   "sumKm2": 30533180,
+   "unionKm2": 30533180,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 892,
+   "active": 108,
+   "rows": 108,
+   "sumKm2": 30532413,
+   "unionKm2": 30532413,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 896,
+   "active": 109,
+   "rows": 109,
+   "sumKm2": 30404086,
+   "unionKm2": 30404086,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 898,
+   "active": 115,
+   "rows": 115,
+   "sumKm2": 30461480,
+   "unionKm2": 30461480,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 899,
+   "active": 117,
+   "rows": 117,
+   "sumKm2": 28475914,
+   "unionKm2": 28475914,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 900,
+   "active": 114,
+   "rows": 114,
+   "sumKm2": 28398948,
+   "unionKm2": 28398948,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 372880
+  },
+  {
+   "y": 911,
+   "active": 123,
+   "rows": 123,
+   "sumKm2": 27706380,
+   "unionKm2": 27706380,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 922,
+   "active": 117,
+   "rows": 117,
+   "sumKm2": 27935892,
+   "unionKm2": 27935892,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 926,
+   "active": 112,
+   "rows": 112,
+   "sumKm2": 28825060,
+   "unionKm2": 28825060,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 936,
+   "active": 116,
+   "rows": 116,
+   "sumKm2": 28709673,
+   "unionKm2": 28709673,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 947,
+   "active": 117,
+   "rows": 117,
+   "sumKm2": 29023590,
+   "unionKm2": 29023590,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 960,
+   "active": 118,
+   "rows": 118,
+   "sumKm2": 28976784,
+   "unionKm2": 28976784,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 961,
+   "active": 119,
+   "rows": 119,
+   "sumKm2": 28918551,
+   "unionKm2": 28918551,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 962,
+   "active": 120,
+   "rows": 120,
+   "sumKm2": 29024336,
+   "unionKm2": 29024336,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 970,
+   "active": 115,
+   "rows": 115,
+   "sumKm2": 28759103,
+   "unionKm2": 28759103,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 980,
+   "active": 111,
+   "rows": 111,
+   "sumKm2": 28707093,
+   "unionKm2": 28707093,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 990,
+   "active": 126,
+   "rows": 126,
+   "sumKm2": 29256602,
+   "unionKm2": 29256602,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1000,
+   "active": 126,
+   "rows": 126,
+   "sumKm2": 29582055,
+   "unionKm2": 29582055,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 376074
+  },
+  {
+   "y": 1003,
+   "active": 125,
+   "rows": 125,
+   "sumKm2": 29574693,
+   "unionKm2": 29574693,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1010,
+   "active": 130,
+   "rows": 130,
+   "sumKm2": 29664294,
+   "unionKm2": 29664294,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1015,
+   "active": 141,
+   "rows": 141,
+   "sumKm2": 29483205,
+   "unionKm2": 29483205,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1018,
+   "active": 138,
+   "rows": 138,
+   "sumKm2": 29620452,
+   "unionKm2": 29620452,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1028,
+   "active": 130,
+   "rows": 130,
+   "sumKm2": 29800320,
+   "unionKm2": 29800320,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1034,
+   "active": 129,
+   "rows": 129,
+   "sumKm2": 29709937,
+   "unionKm2": 29709937,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1040,
+   "active": 136,
+   "rows": 136,
+   "sumKm2": 30001464,
+   "unionKm2": 30001464,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1046,
+   "active": 136,
+   "rows": 136,
+   "sumKm2": 30018782,
+   "unionKm2": 30018782,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1056,
+   "active": 146,
+   "rows": 146,
+   "sumKm2": 32114417,
+   "unionKm2": 32114417,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1066,
+   "active": 138,
+   "rows": 138,
+   "sumKm2": 32154954,
+   "unionKm2": 32154954,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1072,
+   "active": 138,
+   "rows": 138,
+   "sumKm2": 33347889,
+   "unionKm2": 33347889,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1085,
+   "active": 137,
+   "rows": 137,
+   "sumKm2": 33551248,
+   "unionKm2": 33551248,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1094,
+   "active": 135,
+   "rows": 135,
+   "sumKm2": 33553487,
+   "unionKm2": 33553487,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1099,
+   "active": 139,
+   "rows": 139,
+   "sumKm2": 33164853,
+   "unionKm2": 33164853,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1100,
+   "active": 139,
+   "rows": 139,
+   "sumKm2": 33164853,
+   "unionKm2": 33164853,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 420511
+  },
+  {
+   "y": 1111,
+   "active": 140,
+   "rows": 140,
+   "sumKm2": 33212655,
+   "unionKm2": 33212655,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1126,
+   "active": 138,
+   "rows": 138,
+   "sumKm2": 33228190,
+   "unionKm2": 33228190,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1139,
+   "active": 140,
+   "rows": 140,
+   "sumKm2": 31660627,
+   "unionKm2": 31660627,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1147,
+   "active": 148,
+   "rows": 148,
+   "sumKm2": 31651938,
+   "unionKm2": 31651938,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1152,
+   "active": 140,
+   "rows": 140,
+   "sumKm2": 31661602,
+   "unionKm2": 31661602,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1169,
+   "active": 137,
+   "rows": 137,
+   "sumKm2": 31871070,
+   "unionKm2": 31871070,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1177,
+   "active": 136,
+   "rows": 136,
+   "sumKm2": 32367819,
+   "unionKm2": 32367819,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1185,
+   "active": 137,
+   "rows": 137,
+   "sumKm2": 32367769,
+   "unionKm2": 32367769,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1188,
+   "active": 134,
+   "rows": 134,
+   "sumKm2": 32514765,
+   "unionKm2": 32514765,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1192,
+   "active": 132,
+   "rows": 132,
+   "sumKm2": 32685250,
+   "unionKm2": 32685250,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1200,
+   "active": 132,
+   "rows": 132,
+   "sumKm2": 32685250,
+   "unionKm2": 32685250,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 445073
+  },
+  {
+   "y": 1202,
+   "active": 135,
+   "rows": 135,
+   "sumKm2": 32784191,
+   "unionKm2": 32784191,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1206,
+   "active": 149,
+   "rows": 149,
+   "sumKm2": 35243257,
+   "unionKm2": 35243257,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1210,
+   "active": 146,
+   "rows": 146,
+   "sumKm2": 35058371,
+   "unionKm2": 35058371,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1216,
+   "active": 143,
+   "rows": 143,
+   "sumKm2": 34653377,
+   "unionKm2": 34653377,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1220,
+   "active": 143,
+   "rows": 143,
+   "sumKm2": 36105644,
+   "unionKm2": 36105644,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1227,
+   "active": 139,
+   "rows": 139,
+   "sumKm2": 39169901,
+   "unionKm2": 39169901,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1236,
+   "active": 137,
+   "rows": 137,
+   "sumKm2": 41291847,
+   "unionKm2": 41291847,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1241,
+   "active": 130,
+   "rows": 130,
+   "sumKm2": 41281900,
+   "unionKm2": 41281900,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1250,
+   "active": 118,
+   "rows": 118,
+   "sumKm2": 41135164,
+   "unionKm2": 41135164,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1260,
+   "active": 122,
+   "rows": 122,
+   "sumKm2": 41519416,
+   "unionKm2": 41519416,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1272,
+   "active": 120,
+   "rows": 120,
+   "sumKm2": 41709825,
+   "unionKm2": 41709825,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1279,
+   "active": 121,
+   "rows": 121,
+   "sumKm2": 41613029,
+   "unionKm2": 41613029,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 418719
+  },
+  {
+   "y": 1285,
+   "active": 127,
+   "rows": 127,
+   "sumKm2": 42134419,
+   "unionKm2": 42134419,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1294,
+   "active": 144,
+   "rows": 144,
+   "sumKm2": 41128428,
+   "unionKm2": 41128428,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1299,
+   "active": 145,
+   "rows": 145,
+   "sumKm2": 41128428,
+   "unionKm2": 41128428,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1300,
+   "active": 145,
+   "rows": 145,
+   "sumKm2": 41128428,
+   "unionKm2": 41128428,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 432481
+  },
+  {
+   "y": 1305,
+   "active": 151,
+   "rows": 149,
+   "sumKm2": 41267617,
+   "unionKm2": 41267617,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1314,
+   "active": 150,
+   "rows": 148,
+   "sumKm2": 42967076,
+   "unionKm2": 42967076,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1326,
+   "active": 143,
+   "rows": 142,
+   "sumKm2": 42945605,
+   "unionKm2": 42945605,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1333,
+   "active": 144,
+   "rows": 143,
+   "sumKm2": 43168447,
+   "unionKm2": 43168447,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1344,
+   "active": 147,
+   "rows": 145,
+   "sumKm2": 41781054,
+   "unionKm2": 41781054,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1352,
+   "active": 138,
+   "rows": 137,
+   "sumKm2": 40396688,
+   "unionKm2": 40396688,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1363,
+   "active": 147,
+   "rows": 147,
+   "sumKm2": 40516549,
+   "unionKm2": 40516549,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1368,
+   "active": 148,
+   "rows": 148,
+   "sumKm2": 40517023,
+   "unionKm2": 40517023,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1375,
+   "active": 154,
+   "rows": 152,
+   "sumKm2": 37134126,
+   "unionKm2": 37134126,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1385,
+   "active": 154,
+   "rows": 152,
+   "sumKm2": 38677443,
+   "unionKm2": 38677443,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1395,
+   "active": 149,
+   "rows": 149,
+   "sumKm2": 38861071,
+   "unionKm2": 38861071,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1400,
+   "active": 149,
+   "rows": 149,
+   "sumKm2": 38861071,
+   "unionKm2": 38861071,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 562357
+  },
+  {
+   "y": 1402,
+   "active": 141,
+   "rows": 140,
+   "sumKm2": 36710344,
+   "unionKm2": 36710344,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1407,
+   "active": 141,
+   "rows": 141,
+   "sumKm2": 36369838,
+   "unionKm2": 36369838,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1415,
+   "active": 136,
+   "rows": 136,
+   "sumKm2": 37089422,
+   "unionKm2": 37089422,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1416,
+   "active": 136,
+   "rows": 136,
+   "sumKm2": 37089375,
+   "unionKm2": 37089375,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1422,
+   "active": 132,
+   "rows": 132,
+   "sumKm2": 37108058,
+   "unionKm2": 37108058,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1429,
+   "active": 130,
+   "rows": 130,
+   "sumKm2": 40724323,
+   "unionKm2": 40724323,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1431,
+   "active": 130,
+   "rows": 130,
+   "sumKm2": 40724679,
+   "unionKm2": 40724679,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1440,
+   "active": 129,
+   "rows": 129,
+   "sumKm2": 41593717,
+   "unionKm2": 41593717,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1450,
+   "active": 127,
+   "rows": 127,
+   "sumKm2": 42064123,
+   "unionKm2": 42064123,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1453,
+   "active": 130,
+   "rows": 130,
+   "sumKm2": 42237431,
+   "unionKm2": 42237431,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1459,
+   "active": 132,
+   "rows": 132,
+   "sumKm2": 42270169,
+   "unionKm2": 42270169,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1463,
+   "active": 132,
+   "rows": 132,
+   "sumKm2": 42274748,
+   "unionKm2": 42274748,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1468,
+   "active": 140,
+   "rows": 140,
+   "sumKm2": 42343572,
+   "unionKm2": 42343572,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1475,
+   "active": 137,
+   "rows": 137,
+   "sumKm2": 41404206,
+   "unionKm2": 41404206,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1482,
+   "active": 131,
+   "rows": 130,
+   "sumKm2": 41470585,
+   "unionKm2": 41470585,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1487,
+   "active": 129,
+   "rows": 127,
+   "sumKm2": 41604688,
+   "unionKm2": 41604688,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1492,
+   "active": 129,
+   "rows": 127,
+   "sumKm2": 41701401,
+   "unionKm2": 41701401,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 533569
+  },
+  {
+   "y": 1494,
+   "active": 129,
+   "rows": 127,
+   "sumKm2": 41785268,
+   "unionKm2": 41785268,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1497,
+   "active": 130,
+   "rows": 128,
+   "sumKm2": 43493682,
+   "unionKm2": 43493682,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1499,
+   "active": 130,
+   "rows": 128,
+   "sumKm2": 43493682,
+   "unionKm2": 43493682,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1500,
+   "active": 130,
+   "rows": 128,
+   "sumKm2": 43493682,
+   "unionKm2": 43493682,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 596532
+  },
+  {
+   "y": 1502,
+   "active": 129,
+   "rows": 127,
+   "sumKm2": 43105567,
+   "unionKm2": 43105567,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1507,
+   "active": 127,
+   "rows": 125,
+   "sumKm2": 42945768,
+   "unionKm2": 42945768,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1512,
+   "active": 126,
+   "rows": 124,
+   "sumKm2": 43663490,
+   "unionKm2": 43663490,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1516,
+   "active": 125,
+   "rows": 123,
+   "sumKm2": 43506011,
+   "unionKm2": 43506011,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1519,
+   "active": 125,
+   "rows": 123,
+   "sumKm2": 42839245,
+   "unionKm2": 42839245,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1521,
+   "active": 121,
+   "rows": 119,
+   "sumKm2": 42880268,
+   "unionKm2": 42880268,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1526,
+   "active": 123,
+   "rows": 121,
+   "sumKm2": 43972450,
+   "unionKm2": 43972450,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1529,
+   "active": 126,
+   "rows": 124,
+   "sumKm2": 44071393,
+   "unionKm2": 44071393,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1530,
+   "active": 126,
+   "rows": 124,
+   "sumKm2": 44071393,
+   "unionKm2": 44071393,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 694861
+  },
+  {
+   "y": 1534,
+   "active": 127,
+   "rows": 125,
+   "sumKm2": 44226807,
+   "unionKm2": 44226807,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1540,
+   "active": 124,
+   "rows": 121,
+   "sumKm2": 44724691,
+   "unionKm2": 44724691,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1547,
+   "active": 123,
+   "rows": 120,
+   "sumKm2": 45143510,
+   "unionKm2": 45143510,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1552,
+   "active": 121,
+   "rows": 118,
+   "sumKm2": 45507186,
+   "unionKm2": 45507186,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1556,
+   "active": 119,
+   "rows": 117,
+   "sumKm2": 45300482,
+   "unionKm2": 45300482,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1564,
+   "active": 118,
+   "rows": 117,
+   "sumKm2": 45828831,
+   "unionKm2": 45828831,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1572,
+   "active": 112,
+   "rows": 111,
+   "sumKm2": 46216897,
+   "unionKm2": 46216897,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1575,
+   "active": 112,
+   "rows": 111,
+   "sumKm2": 46216897,
+   "unionKm2": 46216897,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1579,
+   "active": 104,
+   "rows": 103,
+   "sumKm2": 46669917,
+   "unionKm2": 46669917,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1582,
+   "active": 99,
+   "rows": 98,
+   "sumKm2": 47568717,
+   "unionKm2": 47568717,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1588,
+   "active": 100,
+   "rows": 99,
+   "sumKm2": 45763689,
+   "unionKm2": 45763689,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1595,
+   "active": 99,
+   "rows": 98,
+   "sumKm2": 47354062,
+   "unionKm2": 47354062,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1600,
+   "active": 97,
+   "rows": 96,
+   "sumKm2": 47067675,
+   "unionKm2": 47067675,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 784578
+  },
+  {
+   "y": 1602,
+   "active": 98,
+   "rows": 97,
+   "sumKm2": 47151287,
+   "unionKm2": 47151287,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1609,
+   "active": 100,
+   "rows": 99,
+   "sumKm2": 47563416,
+   "unionKm2": 47563416,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1612,
+   "active": 105,
+   "rows": 104,
+   "sumKm2": 47863130,
+   "unionKm2": 47863130,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1619,
+   "active": 107,
+   "rows": 106,
+   "sumKm2": 48534182,
+   "unionKm2": 48534182,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1622,
+   "active": 107,
+   "rows": 106,
+   "sumKm2": 48594379,
+   "unionKm2": 48594379,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1626,
+   "active": 109,
+   "rows": 108,
+   "sumKm2": 48887574,
+   "unionKm2": 48887574,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1629,
+   "active": 109,
+   "rows": 108,
+   "sumKm2": 49197581,
+   "unionKm2": 49197581,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1632,
+   "active": 109,
+   "rows": 108,
+   "sumKm2": 51380669,
+   "unionKm2": 51380669,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1636,
+   "active": 110,
+   "rows": 109,
+   "sumKm2": 53101544,
+   "unionKm2": 53101544,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1640,
+   "active": 114,
+   "rows": 113,
+   "sumKm2": 54662170,
+   "unionKm2": 54662170,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1642,
+   "active": 115,
+   "rows": 114,
+   "sumKm2": 54730373,
+   "unionKm2": 54730373,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1645,
+   "active": 115,
+   "rows": 114,
+   "sumKm2": 54489198,
+   "unionKm2": 54489198,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1648,
+   "active": 117,
+   "rows": 116,
+   "sumKm2": 55109960,
+   "unionKm2": 55109960,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1650,
+   "active": 117,
+   "rows": 116,
+   "sumKm2": 55109960,
+   "unionKm2": 55109960,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 905738
+  },
+  {
+   "y": 1653,
+   "active": 115,
+   "rows": 114,
+   "sumKm2": 56766251,
+   "unionKm2": 56766251,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1659,
+   "active": 114,
+   "rows": 113,
+   "sumKm2": 57847337,
+   "unionKm2": 57847337,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1662,
+   "active": 116,
+   "rows": 115,
+   "sumKm2": 58163893,
+   "unionKm2": 58163893,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1670,
+   "active": 117,
+   "rows": 116,
+   "sumKm2": 59107713,
+   "unionKm2": 59107713,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1673,
+   "active": 117,
+   "rows": 117,
+   "sumKm2": 59249168,
+   "unionKm2": 59249168,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1677,
+   "active": 116,
+   "rows": 116,
+   "sumKm2": 59764588,
+   "unionKm2": 59764588,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1683,
+   "active": 117,
+   "rows": 116,
+   "sumKm2": 59677499,
+   "unionKm2": 59677499,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1687,
+   "active": 113,
+   "rows": 112,
+   "sumKm2": 59679934,
+   "unionKm2": 59679934,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1691,
+   "active": 111,
+   "rows": 110,
+   "sumKm2": 60182000,
+   "unionKm2": 60182000,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1696,
+   "active": 108,
+   "rows": 107,
+   "sumKm2": 60307663,
+   "unionKm2": 60307663,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1700,
+   "active": 107,
+   "rows": 106,
+   "sumKm2": 60696383,
+   "unionKm2": 60696383,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 1036447
+  },
+  {
+   "y": 1702,
+   "active": 109,
+   "rows": 109,
+   "sumKm2": 60286665,
+   "unionKm2": 60286665,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1706,
+   "active": 114,
+   "rows": 114,
+   "sumKm2": 60490312,
+   "unionKm2": 60490312,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1707,
+   "active": 114,
+   "rows": 114,
+   "sumKm2": 60489780,
+   "unionKm2": 60489780,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1709,
+   "active": 120,
+   "rows": 120,
+   "sumKm2": 60698824,
+   "unionKm2": 60698824,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1713,
+   "active": 123,
+   "rows": 123,
+   "sumKm2": 60494918,
+   "unionKm2": 60494918,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1715,
+   "active": 123,
+   "rows": 123,
+   "sumKm2": 60494918,
+   "unionKm2": 60494918,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 1071422
+  },
+  {
+   "y": 1718,
+   "active": 124,
+   "rows": 124,
+   "sumKm2": 61210807,
+   "unionKm2": 61210807,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1721,
+   "active": 125,
+   "rows": 125,
+   "sumKm2": 61533805,
+   "unionKm2": 61533805,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1727,
+   "active": 128,
+   "rows": 128,
+   "sumKm2": 61602003,
+   "unionKm2": 61602003,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1734,
+   "active": 132,
+   "rows": 132,
+   "sumKm2": 62247244,
+   "unionKm2": 62247244,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1738,
+   "active": 125,
+   "rows": 125,
+   "sumKm2": 62592259,
+   "unionKm2": 62592259,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1741,
+   "active": 125,
+   "rows": 125,
+   "sumKm2": 62471497,
+   "unionKm2": 62471497,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1744,
+   "active": 129,
+   "rows": 129,
+   "sumKm2": 61676759,
+   "unionKm2": 61676759,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1748,
+   "active": 132,
+   "rows": 132,
+   "sumKm2": 61033499,
+   "unionKm2": 61033499,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1752,
+   "active": 132,
+   "rows": 132,
+   "sumKm2": 69236339,
+   "unionKm2": 69236339,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1757,
+   "active": 132,
+   "rows": 132,
+   "sumKm2": 69862477,
+   "unionKm2": 69862477,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1762,
+   "active": 131,
+   "rows": 131,
+   "sumKm2": 70522215,
+   "unionKm2": 70522215,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1763,
+   "active": 132,
+   "rows": 132,
+   "sumKm2": 70993199,
+   "unionKm2": 70993199,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1769,
+   "active": 128,
+   "rows": 128,
+   "sumKm2": 71096641,
+   "unionKm2": 71096641,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1772,
+   "active": 127,
+   "rows": 127,
+   "sumKm2": 71155961,
+   "unionKm2": 71155961,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1775,
+   "active": 132,
+   "rows": 132,
+   "sumKm2": 70353506,
+   "unionKm2": 70353506,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1776,
+   "active": 132,
+   "rows": 132,
+   "sumKm2": 71287868,
+   "unionKm2": 71287868,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1778,
+   "active": 131,
+   "rows": 130,
+   "sumKm2": 73985731,
+   "unionKm2": 73985731,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1780,
+   "active": 131,
+   "rows": 130,
+   "sumKm2": 73990461,
+   "unionKm2": 73990461,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1781,
+   "active": 131,
+   "rows": 130,
+   "sumKm2": 73992197,
+   "unionKm2": 73992197,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1783,
+   "active": 130,
+   "rows": 129,
+   "sumKm2": 73878782,
+   "unionKm2": 73878782,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 1209319
+  },
+  {
+   "y": 1788,
+   "active": 129,
+   "rows": 128,
+   "sumKm2": 74290869,
+   "unionKm2": 74290869,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1791,
+   "active": 128,
+   "rows": 128,
+   "sumKm2": 74657200,
+   "unionKm2": 74657200,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1792,
+   "active": 130,
+   "rows": 130,
+   "sumKm2": 74771694,
+   "unionKm2": 74771694,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1794,
+   "active": 125,
+   "rows": 125,
+   "sumKm2": 74980799,
+   "unionKm2": 74980799,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1796,
+   "active": 124,
+   "rows": 124,
+   "sumKm2": 75014998,
+   "unionKm2": 75014998,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1797,
+   "active": 125,
+   "rows": 125,
+   "sumKm2": 75065131,
+   "unionKm2": 75065131,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1799,
+   "active": 124,
+   "rows": 124,
+   "sumKm2": 75197989,
+   "unionKm2": 75197989,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1800,
+   "active": 123,
+   "rows": 123,
+   "sumKm2": 75231010,
+   "unionKm2": 75231010,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 1258818
+  },
+  {
+   "y": 1801,
+   "active": 123,
+   "rows": 123,
+   "sumKm2": 75231010,
+   "unionKm2": 75231010,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1803,
+   "active": 123,
+   "rows": 123,
+   "sumKm2": 76026515,
+   "unionKm2": 76026515,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1805,
+   "active": 125,
+   "rows": 125,
+   "sumKm2": 76988153,
+   "unionKm2": 76988153,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1806,
+   "active": 138,
+   "rows": 138,
+   "sumKm2": 77134997,
+   "unionKm2": 77134997,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1807,
+   "active": 132,
+   "rows": 132,
+   "sumKm2": 77167701,
+   "unionKm2": 77167701,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1809,
+   "active": 131,
+   "rows": 131,
+   "sumKm2": 77311236,
+   "unionKm2": 77311236,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1811,
+   "active": 131,
+   "rows": 131,
+   "sumKm2": 77483109,
+   "unionKm2": 77483109,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1812,
+   "active": 133,
+   "rows": 133,
+   "sumKm2": 77567642,
+   "unionKm2": 77567642,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1814,
+   "active": 142,
+   "rows": 142,
+   "sumKm2": 77538653,
+   "unionKm2": 77538653,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1815,
+   "active": 139,
+   "rows": 139,
+   "sumKm2": 76838400,
+   "unionKm2": 76838400,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 1273139
+  },
+  {
+   "y": 1820,
+   "active": 148,
+   "rows": 148,
+   "sumKm2": 77272591,
+   "unionKm2": 77272591,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1822,
+   "active": 147,
+   "rows": 147,
+   "sumKm2": 79224901,
+   "unionKm2": 79224901,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1824,
+   "active": 148,
+   "rows": 148,
+   "sumKm2": 79669097,
+   "unionKm2": 79669097,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1825,
+   "active": 150,
+   "rows": 150,
+   "sumKm2": 79660248,
+   "unionKm2": 79660248,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1828,
+   "active": 144,
+   "rows": 144,
+   "sumKm2": 80079810,
+   "unionKm2": 80079810,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1830,
+   "active": 143,
+   "rows": 143,
+   "sumKm2": 80269907,
+   "unionKm2": 80269907,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1832,
+   "active": 143,
+   "rows": 143,
+   "sumKm2": 80269907,
+   "unionKm2": 80269907,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1834,
+   "active": 143,
+   "rows": 143,
+   "sumKm2": 80881901,
+   "unionKm2": 80881901,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1836,
+   "active": 145,
+   "rows": 145,
+   "sumKm2": 81003901,
+   "unionKm2": 81003901,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1839,
+   "active": 146,
+   "rows": 146,
+   "sumKm2": 81041270,
+   "unionKm2": 81041270,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1840,
+   "active": 155,
+   "rows": 155,
+   "sumKm2": 82164917,
+   "unionKm2": 82164917,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1842,
+   "active": 156,
+   "rows": 156,
+   "sumKm2": 82247488,
+   "unionKm2": 82247488,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1843,
+   "active": 156,
+   "rows": 156,
+   "sumKm2": 82247488,
+   "unionKm2": 82247488,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1846,
+   "active": 152,
+   "rows": 152,
+   "sumKm2": 83718011,
+   "unionKm2": 83718011,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1848,
+   "active": 148,
+   "rows": 148,
+   "sumKm2": 83343988,
+   "unionKm2": 83343988,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1849,
+   "active": 145,
+   "rows": 145,
+   "sumKm2": 83362229,
+   "unionKm2": 83362229,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1853,
+   "active": 146,
+   "rows": 146,
+   "sumKm2": 84674579,
+   "unionKm2": 84674579,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1856,
+   "active": 151,
+   "rows": 151,
+   "sumKm2": 85908882,
+   "unionKm2": 85908882,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1857,
+   "active": 152,
+   "rows": 152,
+   "sumKm2": 86414025,
+   "unionKm2": 86414025,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1859,
+   "active": 148,
+   "rows": 148,
+   "sumKm2": 89131889,
+   "unionKm2": 89131889,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1860,
+   "active": 144,
+   "rows": 144,
+   "sumKm2": 89371462,
+   "unionKm2": 89371462,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1861,
+   "active": 142,
+   "rows": 142,
+   "sumKm2": 89261641,
+   "unionKm2": 89261641,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1862,
+   "active": 140,
+   "rows": 140,
+   "sumKm2": 90232244,
+   "unionKm2": 90232244,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1863,
+   "active": 141,
+   "rows": 141,
+   "sumKm2": 91552287,
+   "unionKm2": 91552287,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1864,
+   "active": 141,
+   "rows": 141,
+   "sumKm2": 89994576,
+   "unionKm2": 89994576,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1865,
+   "active": 141,
+   "rows": 141,
+   "sumKm2": 89733448,
+   "unionKm2": 89733448,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1866,
+   "active": 135,
+   "rows": 135,
+   "sumKm2": 90600736,
+   "unionKm2": 90600736,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1868,
+   "active": 136,
+   "rows": 136,
+   "sumKm2": 92095478,
+   "unionKm2": 92095478,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1870,
+   "active": 134,
+   "rows": 134,
+   "sumKm2": 92947241,
+   "unionKm2": 92947241,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1871,
+   "active": 114,
+   "rows": 114,
+   "sumKm2": 93135588,
+   "unionKm2": 93135588,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1873,
+   "active": 110,
+   "rows": 110,
+   "sumKm2": 94043487,
+   "unionKm2": 94043487,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1877,
+   "active": 106,
+   "rows": 106,
+   "sumKm2": 97866412,
+   "unionKm2": 97866412,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1880,
+   "active": 107,
+   "rows": 107,
+   "sumKm2": 99061464,
+   "unionKm2": 99061464,
+   "doubleKm2": 0,
+   "growthKm2": 0,
+   "seaKm2": 1743645
+  },
+  {
+   "y": 1881,
+   "active": 108,
+   "rows": 108,
+   "sumKm2": 99061464,
+   "unionKm2": 99061464,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1882,
+   "active": 109,
+   "rows": 109,
+   "sumKm2": 99061463,
+   "unionKm2": 99061463,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1884,
+   "active": 110,
+   "rows": 110,
+   "sumKm2": 99063195,
+   "unionKm2": 99063195,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1885,
+   "active": 116,
+   "rows": 116,
+   "sumKm2": 103981258,
+   "unionKm2": 103981258,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1886,
+   "active": 117,
+   "rows": 117,
+   "sumKm2": 103981182,
+   "unionKm2": 103981182,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1890,
+   "active": 119,
+   "rows": 119,
+   "sumKm2": 110513067,
+   "unionKm2": 110513067,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1891,
+   "active": 120,
+   "rows": 120,
+   "sumKm2": 110518718,
+   "unionKm2": 110518718,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1894,
+   "active": 120,
+   "rows": 120,
+   "sumKm2": 110518718,
+   "unionKm2": 110518718,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1895,
+   "active": 111,
+   "rows": 111,
+   "sumKm2": 117562604,
+   "unionKm2": 117562604,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1896,
+   "active": 111,
+   "rows": 111,
+   "sumKm2": 117562604,
+   "unionKm2": 117562604,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1898,
+   "active": 109,
+   "rows": 109,
+   "sumKm2": 117714836,
+   "unionKm2": 117714836,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1899,
+   "active": 109,
+   "rows": 109,
+   "sumKm2": 117715795,
+   "unionKm2": 117715795,
+   "doubleKm2": 0,
+   "growthKm2": 0
+  },
+  {
+   "y": 1900,
+   "active": 108,
+   "rows": 108,
+   "sumKm2": 120200737,
+   "unionKm2": 120200737,
+   "doubleKm2": 0,
+   "growthKm2": 504448,
+   "seaKm2": 1917793
+  },
+  {
+   "y": 1903,
+   "active": 109,
+   "rows": 109,
+   "sumKm2": 120200703,
+   "unionKm2": 120200703,
+   "doubleKm2": 0,
+   "growthKm2": 504414
+  },
+  {
+   "y": 1905,
+   "active": 109,
+   "rows": 109,
+   "sumKm2": 126026872,
+   "unionKm2": 126026872,
+   "doubleKm2": 0,
+   "growthKm2": 502368
+  },
+  {
+   "y": 1906,
+   "active": 108,
+   "rows": 108,
+   "sumKm2": 126026872,
+   "unionKm2": 126026872,
+   "doubleKm2": 0,
+   "growthKm2": 502375
+  },
+  {
+   "y": 1907,
+   "active": 108,
+   "rows": 108,
+   "sumKm2": 126026872,
+   "unionKm2": 126026872,
+   "doubleKm2": 0,
+   "growthKm2": 502375
+  },
+  {
+   "y": 1908,
+   "active": 104,
+   "rows": 104,
+   "sumKm2": 127123975,
+   "unionKm2": 127123975,
+   "doubleKm2": 0,
+   "growthKm2": 510638
+  },
+  {
+   "y": 1910,
+   "active": 102,
+   "rows": 102,
+   "sumKm2": 127125071,
+   "unionKm2": 127125071,
+   "doubleKm2": 0,
+   "growthKm2": 511734
+  },
+  {
+   "y": 1911,
+   "active": 99,
+   "rows": 99,
+   "sumKm2": 131446267,
+   "unionKm2": 131446267,
+   "doubleKm2": 0,
+   "growthKm2": 535405
+  },
+  {
+   "y": 1912,
+   "active": 102,
+   "rows": 102,
+   "sumKm2": 131434081,
+   "unionKm2": 131434081,
+   "doubleKm2": 0,
+   "growthKm2": 535283
+  },
+  {
+   "y": 1913,
+   "active": 103,
+   "rows": 103,
+   "sumKm2": 129454858,
+   "unionKm2": 129454858,
+   "doubleKm2": 0,
+   "growthKm2": 530478
+  },
+  {
+   "y": 1914,
+   "active": 101,
+   "rows": 101,
+   "sumKm2": 129748974,
+   "unionKm2": 129748974,
+   "doubleKm2": 0,
+   "growthKm2": 531033,
+   "seaKm2": 2161481
+  },
+  {
+   "y": 1915,
+   "active": 99,
+   "rows": 99,
+   "sumKm2": 130096980,
+   "unionKm2": 130096980,
+   "doubleKm2": 0,
+   "growthKm2": 506647
+  },
+  {
+   "y": 1916,
+   "active": 99,
+   "rows": 99,
+   "sumKm2": 130393074,
+   "unionKm2": 130393074,
+   "doubleKm2": 0,
+   "growthKm2": 507589
+  },
+  {
+   "y": 1917,
+   "active": 99,
+   "rows": 99,
+   "sumKm2": 128032286,
+   "unionKm2": 128032286,
+   "doubleKm2": 0,
+   "growthKm2": 537470
+  },
+  {
+   "y": 1918,
+   "active": 109,
+   "rows": 109,
+   "sumKm2": 125760783,
+   "unionKm2": 125760783,
+   "doubleKm2": 0,
+   "growthKm2": 533462
+  },
+  {
+   "y": 1919,
+   "active": 120,
+   "rows": 120,
+   "sumKm2": 126647865,
+   "unionKm2": 126647865,
+   "doubleKm2": 0,
+   "growthKm2": 535605
+  },
+  {
+   "y": 1920,
+   "active": 112,
+   "rows": 112,
+   "sumKm2": 128167913,
+   "unionKm2": 128167913,
+   "doubleKm2": 0,
+   "growthKm2": 544961,
+   "seaKm2": 2201879
+  },
+  {
+   "y": 1921,
+   "active": 113,
+   "rows": 113,
+   "sumKm2": 128170536,
+   "unionKm2": 128170536,
+   "doubleKm2": 0,
+   "growthKm2": 544769
+  },
+  {
+   "y": 1922,
+   "active": 117,
+   "rows": 117,
+   "sumKm2": 131366664,
+   "unionKm2": 131366664,
+   "doubleKm2": 0,
+   "growthKm2": 545634
+  },
+  {
+   "y": 1924,
+   "active": 116,
+   "rows": 116,
+   "sumKm2": 129705719,
+   "unionKm2": 129705719,
+   "doubleKm2": 0,
+   "growthKm2": 549205
+  },
+  {
+   "y": 1925,
+   "active": 116,
+   "rows": 116,
+   "sumKm2": 129705719,
+   "unionKm2": 129705719,
+   "doubleKm2": 0,
+   "growthKm2": 549205
+  },
+  {
+   "y": 1926,
+   "active": 114,
+   "rows": 114,
+   "sumKm2": 128861006,
+   "unionKm2": 128861006,
+   "doubleKm2": 0,
+   "growthKm2": 555574
+  },
+  {
+   "y": 1927,
+   "active": 114,
+   "rows": 114,
+   "sumKm2": 131018981,
+   "unionKm2": 131018981,
+   "doubleKm2": 0,
+   "growthKm2": 556116
+  },
+  {
+   "y": 1928,
+   "active": 115,
+   "rows": 115,
+   "sumKm2": 132261994,
+   "unionKm2": 132261994,
+   "doubleKm2": 0,
+   "growthKm2": 552049
+  },
+  {
+   "y": 1929,
+   "active": 115,
+   "rows": 115,
+   "sumKm2": 133156506,
+   "unionKm2": 133156506,
+   "doubleKm2": 0,
+   "growthKm2": 549179
+  },
+  {
+   "y": 1930,
+   "active": 117,
+   "rows": 117,
+   "sumKm2": 133710315,
+   "unionKm2": 133710315,
+   "doubleKm2": 0,
+   "growthKm2": 549182,
+   "seaKm2": 2243016
+  },
+  {
+   "y": 1932,
+   "active": 115,
+   "rows": 115,
+   "sumKm2": 133441375,
+   "unionKm2": 133441375,
+   "doubleKm2": 1,
+   "growthKm2": 559991
+  },
+  {
+   "y": 1935,
+   "active": 115,
+   "rows": 115,
+   "sumKm2": 133441375,
+   "unionKm2": 133441375,
+   "doubleKm2": 1,
+   "growthKm2": 559991
+  },
+  {
+   "y": 1936,
+   "active": 112,
+   "rows": 112,
+   "sumKm2": 135675205,
+   "unionKm2": 135675205,
+   "doubleKm2": 0,
+   "growthKm2": 530556
+  },
+  {
+   "y": 1938,
+   "active": 111,
+   "rows": 111,
+   "sumKm2": 135675582,
+   "unionKm2": 135675582,
+   "doubleKm2": 0,
+   "growthKm2": 530914,
+   "seaKm2": 2331523
+  },
+  {
+   "y": 1939,
+   "active": 109,
+   "rows": 109,
+   "sumKm2": 135676156,
+   "unionKm2": 135676156,
+   "doubleKm2": 0,
+   "growthKm2": 530371
+  },
+  {
+   "y": 1940,
+   "active": 102,
+   "rows": 102,
+   "sumKm2": 135700061,
+   "unionKm2": 135700061,
+   "doubleKm2": 1,
+   "growthKm2": 527316
+  },
+  {
+   "y": 1941,
+   "active": 101,
+   "rows": 101,
+   "sumKm2": 135624226,
+   "unionKm2": 135624225,
+   "doubleKm2": 1,
+   "growthKm2": 525666
+  },
+  {
+   "y": 1942,
+   "active": 99,
+   "rows": 99,
+   "sumKm2": 135598580,
+   "unionKm2": 135598580,
+   "doubleKm2": 1,
+   "growthKm2": 529670
+  },
+  {
+   "y": 1943,
+   "active": 103,
+   "rows": 103,
+   "sumKm2": 135540177,
+   "unionKm2": 135540177,
+   "doubleKm2": 0,
+   "growthKm2": 526238
+  },
+  {
+   "y": 1944,
+   "active": 105,
+   "rows": 105,
+   "sumKm2": 135414894,
+   "unionKm2": 135414894,
+   "doubleKm2": 0,
+   "growthKm2": 519051
+  },
+  {
+   "y": 1945,
+   "active": 120,
+   "rows": 120,
+   "sumKm2": 135492274,
+   "unionKm2": 135492274,
+   "doubleKm2": 0,
+   "growthKm2": 536660,
+   "seaKm2": 2320170
+  },
+  {
+   "y": 1946,
+   "active": 127,
+   "rows": 126,
+   "sumKm2": 135310620,
+   "unionKm2": 135310620,
+   "doubleKm2": 0,
+   "growthKm2": 535367
+  },
+  {
+   "y": 1947,
+   "active": 129,
+   "rows": 128,
+   "sumKm2": 135484306,
+   "unionKm2": 135484306,
+   "doubleKm2": 0,
+   "growthKm2": 538627
+  },
+  {
+   "y": 1948,
+   "active": 131,
+   "rows": 130,
+   "sumKm2": 135494939,
+   "unionKm2": 135494939,
+   "doubleKm2": 0,
+   "growthKm2": 538736
+  },
+  {
+   "y": 1949,
+   "active": 130,
+   "rows": 129,
+   "sumKm2": 135511424,
+   "unionKm2": 135511424,
+   "doubleKm2": 0,
+   "growthKm2": 538541
+  },
+  {
+   "y": 1950,
+   "active": 127,
+   "rows": 126,
+   "sumKm2": 135510842,
+   "unionKm2": 135510842,
+   "doubleKm2": 0,
+   "growthKm2": 537679
+  },
+  {
+   "y": 1952,
+   "active": 126,
+   "rows": 125,
+   "sumKm2": 135509521,
+   "unionKm2": 135509521,
+   "doubleKm2": 0,
+   "growthKm2": 538325
+  },
+  {
+   "y": 1953,
+   "active": 125,
+   "rows": 124,
+   "sumKm2": 135515251,
+   "unionKm2": 135515251,
+   "doubleKm2": 0,
+   "growthKm2": 537381
+  },
+  {
+   "y": 1956,
+   "active": 127,
+   "rows": 127,
+   "sumKm2": 135528951,
+   "unionKm2": 135528951,
+   "doubleKm2": 0,
+   "growthKm2": 536573
+  },
+  {
+   "y": 1957,
+   "active": 126,
+   "rows": 126,
+   "sumKm2": 135531545,
+   "unionKm2": 135531545,
+   "doubleKm2": 0,
+   "growthKm2": 536609
+  },
+  {
+   "y": 1958,
+   "active": 133,
+   "rows": 133,
+   "sumKm2": 135598288,
+   "unionKm2": 135598287,
+   "doubleKm2": 0,
+   "growthKm2": 534605
+  },
+  {
+   "y": 1960,
+   "active": 133,
+   "rows": 133,
+   "sumKm2": 135615361,
+   "unionKm2": 135615361,
+   "doubleKm2": 0,
+   "growthKm2": 535407,
+   "seaKm2": 2237405
+  },
+  {
+   "y": 1961,
+   "active": 134,
+   "rows": 134,
+   "sumKm2": 135615267,
+   "unionKm2": 135615267,
+   "doubleKm2": 0,
+   "growthKm2": 535262
+  },
+  {
+   "y": 1962,
+   "active": 136,
+   "rows": 136,
+   "sumKm2": 135580829,
+   "unionKm2": 135580829,
+   "doubleKm2": 0,
+   "growthKm2": 536155
+  },
+  {
+   "y": 1963,
+   "active": 137,
+   "rows": 137,
+   "sumKm2": 135634327,
+   "unionKm2": 135634327,
+   "doubleKm2": 0,
+   "growthKm2": 537346
+  },
+  {
+   "y": 1964,
+   "active": 137,
+   "rows": 137,
+   "sumKm2": 135628783,
+   "unionKm2": 135628783,
+   "doubleKm2": 0,
+   "growthKm2": 535985
+  },
+  {
+   "y": 1965,
+   "active": 137,
+   "rows": 137,
+   "sumKm2": 135633790,
+   "unionKm2": 135633790,
+   "doubleKm2": 0,
+   "growthKm2": 536128
+  },
+  {
+   "y": 1966,
+   "active": 137,
+   "rows": 137,
+   "sumKm2": 135642107,
+   "unionKm2": 135642107,
+   "doubleKm2": 0,
+   "growthKm2": 536128
+  },
+  {
+   "y": 1967,
+   "active": 145,
+   "rows": 145,
+   "sumKm2": 135636936,
+   "unionKm2": 135636936,
+   "doubleKm2": 0,
+   "growthKm2": 537599
+  },
+  {
+   "y": 1968,
+   "active": 146,
+   "rows": 146,
+   "sumKm2": 135636936,
+   "unionKm2": 135636936,
+   "doubleKm2": 0,
+   "growthKm2": 537599
+  },
+  {
+   "y": 1969,
+   "active": 147,
+   "rows": 147,
+   "sumKm2": 135637131,
+   "unionKm2": 135637131,
+   "doubleKm2": 0,
+   "growthKm2": 537633
+  },
+  {
+   "y": 1971,
+   "active": 150,
+   "rows": 150,
+   "sumKm2": 135637249,
+   "unionKm2": 135637249,
+   "doubleKm2": 0,
+   "growthKm2": 537589
+  },
+  {
+   "y": 1972,
+   "active": 149,
+   "rows": 149,
+   "sumKm2": 135637249,
+   "unionKm2": 135637249,
+   "doubleKm2": 0,
+   "growthKm2": 537589
+  },
+  {
+   "y": 1973,
+   "active": 154,
+   "rows": 154,
+   "sumKm2": 135952298,
+   "unionKm2": 135952298,
+   "doubleKm2": 0,
+   "growthKm2": 536446
+  },
+  {
+   "y": 1975,
+   "active": 159,
+   "rows": 159,
+   "sumKm2": 135954395,
+   "unionKm2": 135954395,
+   "doubleKm2": 0,
+   "growthKm2": 536214
+  },
+  {
+   "y": 1976,
+   "active": 162,
+   "rows": 162,
+   "sumKm2": 135389481,
+   "unionKm2": 135389481,
+   "doubleKm2": 0,
+   "growthKm2": 538085
+  },
+  {
+   "y": 1977,
+   "active": 163,
+   "rows": 163,
+   "sumKm2": 135390911,
+   "unionKm2": 135390911,
+   "doubleKm2": 0,
+   "growthKm2": 538054
+  },
+  {
+   "y": 1979,
+   "active": 166,
+   "rows": 166,
+   "sumKm2": 135369165,
+   "unionKm2": 135369165,
+   "doubleKm2": 0,
+   "growthKm2": 539771
+  },
+  {
+   "y": 1980,
+   "active": 166,
+   "rows": 166,
+   "sumKm2": 135369165,
+   "unionKm2": 135369165,
+   "doubleKm2": 0,
+   "growthKm2": 539771
+  },
+  {
+   "y": 1983,
+   "active": 167,
+   "rows": 167,
+   "sumKm2": 135369389,
+   "unionKm2": 135369389,
+   "doubleKm2": 0,
+   "growthKm2": 539660
+  },
+  {
+   "y": 1984,
+   "active": 167,
+   "rows": 167,
+   "sumKm2": 135369389,
+   "unionKm2": 135369389,
+   "doubleKm2": 0,
+   "growthKm2": 539660
+  },
+  {
+   "y": 1987,
+   "active": 169,
+   "rows": 169,
+   "sumKm2": 135372128,
+   "unionKm2": 135372128,
+   "doubleKm2": 0,
+   "growthKm2": 539710
+  },
+  {
+   "y": 1990,
+   "active": 169,
+   "rows": 169,
+   "sumKm2": 135379272,
+   "unionKm2": 135379272,
+   "doubleKm2": 0,
+   "growthKm2": 539238
+  },
+  {
+   "y": 1991,
+   "active": 168,
+   "rows": 168,
+   "sumKm2": 135379899,
+   "unionKm2": 135379899,
+   "doubleKm2": 0,
+   "growthKm2": 540447
+  },
+  {
+   "y": 1992,
+   "active": 192,
+   "rows": 192,
+   "sumKm2": 135398894,
+   "unionKm2": 135398894,
+   "doubleKm2": 0,
+   "growthKm2": 538199
+  },
+  {
+   "y": 1993,
+   "active": 193,
+   "rows": 193,
+   "sumKm2": 135398894,
+   "unionKm2": 135398894,
+   "doubleKm2": 0,
+   "growthKm2": 538199
+  },
+  {
+   "y": 1994,
+   "active": 193,
+   "rows": 193,
+   "sumKm2": 135398894,
+   "unionKm2": 135398894,
+   "doubleKm2": 0,
+   "growthKm2": 538199,
+   "seaKm2": 2217466
+  },
+  {
+   "y": 1996,
+   "active": 194,
+   "rows": 194,
+   "sumKm2": 135400414,
+   "unionKm2": 135400414,
+   "doubleKm2": 0,
+   "growthKm2": 538317
+  },
+  {
+   "y": 1997,
+   "active": 194,
+   "rows": 194,
+   "sumKm2": 135400414,
+   "unionKm2": 135400414,
+   "doubleKm2": 0,
+   "growthKm2": 538317
+  },
+  {
+   "y": 2000,
+   "active": 196,
+   "rows": 196,
+   "sumKm2": 135401323,
+   "unionKm2": 135401323,
+   "doubleKm2": 0,
+   "growthKm2": 537374,
+   "seaKm2": 2218120
+  },
+  {
+   "y": 2006,
+   "active": 196,
+   "rows": 196,
+   "sumKm2": 135402301,
+   "unionKm2": 135402301,
+   "doubleKm2": 0,
+   "growthKm2": 537001
+  },
+  {
+   "y": 2008,
+   "active": 196,
+   "rows": 196,
+   "sumKm2": 135402301,
+   "unionKm2": 135402301,
+   "doubleKm2": 0,
+   "growthKm2": 537001
+  },
+  {
+   "y": 2010,
+   "active": 196,
+   "rows": 196,
+   "sumKm2": 135402301,
+   "unionKm2": 135402301,
+   "doubleKm2": 0,
+   "growthKm2": 537001,
+   "seaKm2": 2218265
+  },
+  {
+   "y": 2014,
+   "active": 200,
+   "rows": 200,
+   "sumKm2": 135402281,
+   "unionKm2": 135402281,
+   "doubleKm2": 0,
+   "growthKm2": 537294
+  },
+  {
+   "y": 2018,
+   "active": 200,
+   "rows": 200,
+   "sumKm2": 135402281,
+   "unionKm2": 135402281,
+   "doubleKm2": 0,
+   "growthKm2": 537294
+  },
+  {
+   "y": 2023,
+   "active": 200,
+   "rows": 200,
+   "sumKm2": 135402288,
+   "unionKm2": 135402288,
+   "doubleKm2": 0,
+   "growthKm2": 537293
+  },
+  {
+   "y": 2024,
+   "active": 200,
+   "rows": 200,
+   "sumKm2": 135615052,
+   "unionKm2": 135615052,
+   "doubleKm2": 0,
+   "growthKm2": 535935
+  },
+  {
+   "y": 2025,
+   "active": 200,
+   "rows": 200,
+   "sumKm2": 135615052,
+   "unionKm2": 135615052,
+   "doubleKm2": 0,
+   "growthKm2": 535935
+  }
+ ],
+ "overlaps": [
+  {
+   "rid": "s:french-fifth-republic@1960",
+   "maxKm2": 5453997,
+   "from": 1960,
+   "to": 1960,
+   "winners": [
+    "s:democratic-republic-of-the-congo@1960",
+    "s:french-algeria@1960",
+    "s:estado-novo@1960",
+    "s:republic-of-indonesia@1960",
+    "s:kingdom-of-saudi-arabia@1960",
+    "s:republic-of-mali@1960"
+   ]
+  },
+  {
+   "rid": "s:yuan-dynasty@1363",
+   "maxKm2": 4549493,
+   "from": 1368,
+   "to": 1374,
+   "winners": [
+    "s:white-horde@1363",
+    "s:chagatai-khanate@1363",
+    "s:tibet@1363",
+    "s:lan-xang@1363",
+    "s:shan-states@1363",
+    "s:sukhothai-kingdom@1363"
+   ]
+  },
+  {
+   "rid": "s:free-french@1942",
+   "maxKm2": 2357026,
+   "from": 1943,
+   "to": 1943,
+   "winners": [
+    "s:british-colonial-empire@1942",
+    "s:ethiopia@1942",
+    "s:kingdom-of-romania@1942",
+    "s:union-of-soviet-socialist-republics@1943",
+    "s:french-west-africa@1943",
+    "s:nazi-germany@1943"
+   ]
+  },
+  {
+   "rid": "s:estado-novo@1967",
+   "maxKm2": 2089374,
+   "from": 1973,
+   "to": 1975,
+   "winners": [
+    "s:malaysia@1967",
+    "s:peoples-democratic-republic-of-yemen@1967",
+    "s:republic-of-singapore@1967",
+    "s:equatorial-guinea@1968",
+    "s:federal-republic-of-nigeria@1969",
+    "s:united-kingdom@1969"
+   ]
+  },
+  {
+   "rid": "s:blue-horde@1375",
+   "maxKm2": 1801815,
+   "from": 1385,
+   "to": 1401,
+   "winners": [
+    "s:novgorod-republic@1375",
+    "s:grand-principality-of-moscow@1375",
+    "s:germiyanids@1375",
+    "s:principality-of-vladimir-suzdal@1375",
+    "s:principality-of-smolensk@1375",
+    "s:principality-of-theodoro@1375"
+   ]
+  },
+  {
+   "rid": "s:rashidun-caliphate@647",
+   "maxKm2": 1704161,
+   "from": 647,
+   "to": 651,
+   "winners": [
+    "s:western-gokturks@647",
+    "s:byzantine-empire@647",
+    "s:khazaria@647",
+    "s:maitraka-dynasty@647",
+    "s:nobatia@647",
+    "s:dabuyid-dynasty@647"
+   ]
+  },
+  {
+   "rid": "s:rashidun-caliphate@644",
+   "maxKm2": 1704160,
+   "from": 644,
+   "to": 646,
+   "winners": [
+    "s:western-gokturks@644",
+    "s:turk-shahis@644",
+    "s:balasagan@644",
+    "s:dabuyid-dynasty@644",
+    "s:kingdom-of-armenia@644",
+    "s:sasanian-empire@644"
+   ]
+  },
+  {
+   "rid": "s:communist-party-of-china@1938",
+   "maxKm2": 1586810,
+   "from": 1940,
+   "to": 1945,
+   "winners": [
+    "s:empire-of-japan@1939",
+    "s:estado-novo@1939",
+    "s:tibet@1939",
+    "s:union-of-soviet-socialist-republics@1940",
+    "s:british-raj@1940",
+    "s:republic-of-china@1940"
+   ]
+  },
+  {
+   "rid": "s:gran-colombia@1824",
+   "maxKm2": 1481266,
+   "from": 1825,
+   "to": 1829,
+   "winners": [
+    "s:spanish-empire@1824",
+    "s:united-provinces-of-central-america@1824",
+    "s:empire-of-brazil@1825",
+    "s:united-states-of-america@1825",
+    "s:bolivia@1825",
+    "s:republic-of-peru@1825"
+   ]
+  },
+  {
+   "rid": "s:neo-assyrian-empire@-675",
+   "maxKm2": 1400621,
+   "from": -650,
+   "to": -616,
+   "winners": [
+    "s:assyrian-egypt@-650",
+    "s:kingdom-of-kush@-650",
+    "s:babylonia@-650",
+    "s:greek-city-states@-650",
+    "s:lydia@-650",
+    "s:elam@-650"
+   ]
+  },
+  {
+   "rid": "s:kievan-rus@1040",
+   "maxKm2": 1193164,
+   "from": 1056,
+   "to": 1235,
+   "winners": [
+    "s:kingdom-of-hungary@1040",
+    "s:great-seljuk-empire@1056",
+    "s:kimek-kipchak-confederation@1056",
+    "s:byzantine-empire@1056",
+    "s:novgorod-republic@1056",
+    "s:halych-volhynia-occupation@1056"
+   ]
+  },
+  {
+   "rid": "s:union-of-soviet-socialist-republics@1946",
+   "maxKm2": 1145358,
+   "from": 1946,
+   "to": 1946,
+   "winners": [
+    "s:united-states-of-america@1946",
+    "s:republic-of-china@1946",
+    "s:british-raj@1946",
+    "s:french-algeria@1946",
+    "s:denmark@1946",
+    "s:estado-novo@1946"
+   ]
+  },
+  {
+   "rid": "s:union-of-soviet-socialist-republics@1945",
+   "maxKm2": 1015061,
+   "from": 1945,
+   "to": 1945,
+   "winners": [
+    "s:united-states-of-america@1945",
+    "s:empire-of-japan@1945",
+    "s:republic-of-china@1945",
+    "s:british-raj@1945",
+    "s:french-algeria@1945",
+    "s:estado-novo@1945"
+   ]
+  },
+  {
+   "rid": "s:united-states-of-america@1946",
+   "maxKm2": 959636,
+   "from": 1946,
+   "to": 1946,
+   "winners": [
+    "s:brazilian-republic@1946",
+    "s:republic-of-china@1946",
+    "s:british-raj@1946",
+    "s:french-west-africa@1946",
+    "s:french-equatorial-africa@1946",
+    "s:anglo-egyptian-sudan@1946"
+   ]
+  },
+  {
+   "rid": "s:turks@692",
+   "maxKm2": 956741,
+   "from": 705,
+   "to": 717,
+   "winners": [
+    "s:turk-shahis@692",
+    "s:umayyad-caliphate@705",
+    "s:tang-dynasty@705",
+    "s:turgesh@705",
+    "s:tibetan-empire@705"
+   ]
+  },
+  {
+   "rid": "s:french-indochina@1943",
+   "maxKm2": 723457,
+   "from": 1945,
+   "to": 1945,
+   "winners": [
+    "s:kingdom-of-afghanistan@1943",
+    "s:tibet@1944",
+    "s:union-of-soviet-socialist-republics@1945",
+    "s:united-states-of-america@1945",
+    "s:commonwealth-of-australia@1945",
+    "s:empire-of-japan@1945"
+   ]
+  },
+  {
+   "rid": "s:british-colonial-empire@1942",
+   "maxKm2": 720903,
+   "from": 1943,
+   "to": 1945,
+   "winners": [
+    "s:pahlavi-dynasty@1942",
+    "s:ethiopia@1942",
+    "s:republic-of-finland@1942",
+    "s:kingdom-of-romania@1942",
+    "s:union-of-soviet-socialist-republics@1943",
+    "s:commonwealth-of-australia@1943"
+   ]
+  },
+  {
+   "rid": "s:british-colonial-empire@1947",
+   "maxKm2": 690775,
+   "from": 1948,
+   "to": 1957,
+   "winners": [
+    "s:french-fourth-republic@1947",
+    "s:republic-of-indonesia@1947",
+    "s:qatar-protectorate@1947",
+    "s:federal-peoples-republic-of-yugoslavia@1947",
+    "s:second-syrian-republic@1947",
+    "s:czechoslovakia@1947"
+   ]
+  },
+  {
+   "rid": "s:mughal-empire@1526",
+   "maxKm2": 605675,
+   "from": 1526,
+   "to": 1528,
+   "winners": [
+    "s:khanate-of-bukhara@1526",
+    "s:timurid-empire@1526",
+    "s:kashmiri-sultanate@1526",
+    "s:portuguese-empire@1526"
+   ]
+  },
+  {
+   "rid": "s:union-of-soviet-socialist-republics@1947",
+   "maxKm2": 551697,
+   "from": 1947,
+   "to": 1947,
+   "winners": [
+    "s:united-states-of-america@1947",
+    "s:republic-of-china@1947",
+    "s:pahlavi-dynasty@1947",
+    "s:mongolian-peoples-republic@1947",
+    "s:british-colonial-empire@1947",
+    "s:islamic-republic-of-pakistan@1947"
+   ]
+  },
+  {
+   "rid": "s:emirate-of-nejd@1830",
+   "maxKm2": 532505,
+   "from": 1840,
+   "to": 1845,
+   "winners": [
+    "s:sultanate-of-oman@1830",
+    "s:kingdom-of-portugal@1836",
+    "s:muhammad-ali-dynasty@1840",
+    "s:ottoman-empire@1840",
+    "s:british-colonial-empire@1840",
+    "s:ottoman-tripolitania@1840"
+   ]
+  },
+  {
+   "rid": "s:british-colonial-empire@1946",
+   "maxKm2": 531928,
+   "from": 1946,
+   "to": 1946,
+   "winners": [
+    "s:mongolian-peoples-republic@1946",
+    "s:pahlavi-dynasty@1946",
+    "s:dutch-east-indies@1946",
+    "s:british-military-administration-libya@1946",
+    "s:kingdom-of-egypt@1946",
+    "s:tanganyika-territory@1946"
+   ]
+  },
+  {
+   "rid": "s:kidarites@402",
+   "maxKm2": 487834,
+   "from": 410,
+   "to": 442,
+   "winners": [
+    "s:protectorate-of-the-western-regions@402",
+    "s:wusun@402",
+    "s:rouran-khaganate@410",
+    "s:sasanian-empire@410",
+    "s:gupta-empire@410",
+    "s:white-huns@410"
+   ]
+  },
+  {
+   "rid": "s:cape-colony@1903",
+   "maxKm2": 445074,
+   "from": 1903,
+   "to": 1904,
+   "winners": [
+    "s:bechuanaland-protectorate@1903",
+    "s:southern-rhodesia@1903",
+    "s:basutoland@1903",
+    "s:swaziland@1903",
+    "s:transvaal-colony@1900",
+    "s:orange-river-colony@1900"
+   ]
+  },
+  {
+   "rid": "s:cape-colony@1905",
+   "maxKm2": 445074,
+   "from": 1905,
+   "to": 1906,
+   "winners": [
+    "s:german-south-west-africa@1905",
+    "s:bechuanaland-protectorate@1905",
+    "s:southern-rhodesia@1905",
+    "s:basutoland@1905",
+    "s:swaziland@1905",
+    "s:swaziland@1905~2"
+   ]
+  },
+  {
+   "rid": "s:cape-colony@1907",
+   "maxKm2": 445074,
+   "from": 1907,
+   "to": 1907,
+   "winners": [
+    "s:bechuanaland-protectorate@1907",
+    "s:southern-rhodesia@1907",
+    "s:basutoland@1907",
+    "s:swaziland@1907",
+    "s:transvaal-colony@1900",
+    "s:orange-river-colony@1900"
+   ]
+  },
+  {
+   "rid": "s:cape-colony@1908",
+   "maxKm2": 444980,
+   "from": 1908,
+   "to": 1909,
+   "winners": [
+    "s:bechuanaland-protectorate@1908",
+    "s:southern-rhodesia@1908",
+    "s:colony-of-natal@1908",
+    "s:basutoland@1908",
+    "s:swaziland@1908",
+    "s:transvaal-colony@1900"
+   ]
+  },
+  {
+   "rid": "s:cape-colony@1900",
+   "maxKm2": 444575,
+   "from": 1900,
+   "to": 1902,
+   "winners": [
+    "s:german-south-west-africa@1900",
+    "s:bechuanaland-protectorate@1900",
+    "s:southern-rhodesia@1900",
+    "s:colony-of-natal@1900",
+    "s:basutoland@1900",
+    "s:swaziland@1900"
+   ]
+  },
+  {
+   "rid": "s:union-of-soviet-socialist-republics@1948",
+   "maxKm2": 422605,
+   "from": 1948,
+   "to": 1948,
+   "winners": [
+    "s:republic-of-china@1948",
+    "s:republic-of-india@1948",
+    "s:communist-party-of-china@1948",
+    "s:mongolian-peoples-republic@1948",
+    "s:islamic-republic-of-pakistan@1948",
+    "s:tibet@1948"
+   ]
+  },
+  {
+   "rid": "s:almoravid-dynasty@1139",
+   "maxKm2": 413136,
+   "from": 1147,
+   "to": 1151,
+   "winners": [
+    "s:kingdom-of-aragon@1139",
+    "s:almohad-caliphate@1147",
+    "s:kingdom-of-castile@1147",
+    "s:kingdom-of-portugal@1147",
+    "s:taifa-of-valencia@1147",
+    "s:hammadid-dynasty@1147"
+   ]
+  },
+  {
+   "rid": "s:united-kingdom@1969",
+   "maxKm2": 405981,
+   "from": 1971,
+   "to": 2023,
+   "winners": [
+    "s:morocco@1969",
+    "s:polish-peoples-republic@1969",
+    "s:arab-socialist-baath-party@1969",
+    "s:british-colonial-empire@1969",
+    "s:hungarian-peoples-republic@1969",
+    "s:united-arab-emirates@1971"
+   ]
+  },
+  {
+   "rid": "s:kingdom-of-odoacer@476",
+   "maxKm2": 385733,
+   "from": 476,
+   "to": 493,
+   "winners": [
+    "s:kingdom-of-soissons@476",
+    "s:ostrogoths@476",
+    "s:kingdom-of-alamannia@476"
+   ]
+  },
+  {
+   "rid": "s:republic-of-china@1930",
+   "maxKm2": 340620,
+   "from": 1930,
+   "to": 1931,
+   "winners": [
+    "s:french-indochina@1930",
+    "s:anti-kuomintang-coalition@1930",
+    "s:rattanakosin-kingdom@1930",
+    "s:chinese-communists@1930",
+    "s:kingdom-of-belgium@1930"
+   ]
+  },
+  {
+   "rid": "s:kingdom-of-norway@1936",
+   "maxKm2": 335254,
+   "from": 1940,
+   "to": 1940,
+   "winners": [
+    "s:union-of-soviet-socialist-republics@1940",
+    "s:nazi-germany@1940",
+    "s:united-kingdom@1940",
+    "s:republic-of-finland@1940",
+    "s:denmark@1940"
+   ]
+  },
+  {
+   "rid": "s:united-kingdom@1956",
+   "maxKm2": 334086,
+   "from": 1961,
+   "to": 1968,
+   "winners": [
+    "s:federal-republic-of-germany@1957",
+    "s:kingdom-of-libya@1958",
+    "s:british-colonial-empire@1958",
+    "s:morocco@1958",
+    "s:guinea@1958",
+    "s:republic-of-tunisia@1958"
+   ]
+  },
+  {
+   "rid": "s:british-colonial-empire@1918",
+   "maxKm2": 318440,
+   "from": 1919,
+   "to": 1919,
+   "winners": [
+    "s:kuomintang@1918",
+    "s:british-raj@1918",
+    "s:french-west-africa@1918",
+    "s:french-equatorial-africa@1918",
+    "s:french-algeria@1918",
+    "s:tibet@1918"
+   ]
+  },
+  {
+   "rid": "s:huns@397",
+   "maxKm2": 314277,
+   "from": 402,
+   "to": 406,
+   "winners": [
+    "s:sasanian-empire@402",
+    "s:western-roman-empire@402",
+    "s:eastern-roman-empire@402",
+    "s:kingdom-of-armenia@402",
+    "s:visigoths@402",
+    "s:caucasian-iberia@402"
+   ]
+  },
+  {
+   "rid": "s:union-of-soviet-socialist-republics@1949",
+   "maxKm2": 313264,
+   "from": 1949,
+   "to": 1949,
+   "winners": [
+    "s:republic-of-china@1949",
+    "s:peoples-republic-of-china@1949",
+    "s:estado-novo@1949",
+    "s:republic-of-turkey@1949",
+    "s:french-fourth-republic@1949",
+    "s:east-turkestan-republic@1949"
+   ]
+  },
+  {
+   "rid": "s:union-of-soviet-socialist-republics@1950",
+   "maxKm2": 313264,
+   "from": 1950,
+   "to": 1952,
+   "winners": [
+    "s:peoples-republic-of-china@1950",
+    "s:mongolian-peoples-republic@1950",
+    "s:tibet@1950",
+    "s:french-fourth-republic@1950",
+    "s:hungarian-peoples-republic@1950",
+    "s:allied-occupied-austria@1945"
+   ]
+  },
+  {
+   "rid": "s:kingdom-of-axum@534",
+   "maxKm2": 296850,
+   "from": 577,
+   "to": 601,
+   "winners": [
+    "s:himyarite-kingdom@577"
+   ]
+  },
+  {
+   "rid": "s:dutch-east-indies@1809",
+   "maxKm2": 287903,
+   "from": 1811,
+   "to": 1813,
+   "winners": [
+    "s:sultanate-of-palembang@1809",
+    "s:portuguese-colonies@1809",
+    "s:spanish-empire@1811",
+    "s:portuguese-empire@1811",
+    "s:emirate-of-diriyah@1811",
+    "s:ottoman-empire@1811"
+   ]
+  },
+  {
+   "rid": "s:old-kingdom-of-norway@1015",
+   "maxKm2": 279214,
+   "from": 1028,
+   "to": 1039,
+   "winners": [
+    "s:jaemtland@1015",
+    "s:holy-roman-empire@1028",
+    "s:north-sea-empire@1028",
+    "s:kingdom-of-poland@1028",
+    "s:kingdom-of-sweden@1028",
+    "s:viking-settlements@1028"
+   ]
+  },
+  {
+   "rid": "s:british-cape-colony@1797",
+   "maxKm2": 278827,
+   "from": 1803,
+   "to": 1805,
+   "winners": [
+    "s:spanish-empire@1803",
+    "s:british-empire@1803",
+    "s:british-colonial-empire@1803",
+    "s:french-consulate@1803",
+    "s:napoleonic-batavia-republic@1803",
+    "s:dutch-east-indies@1803"
+   ]
+  },
+  {
+   "rid": "s:french-fifth-republic@1958",
+   "maxKm2": 242440,
+   "from": 1958,
+   "to": 1959,
+   "winners": [
+    "s:mauritania@1958",
+    "s:tanganyika-territory@1958",
+    "s:francoist-spain@1958",
+    "s:northern-rhodesia@1958",
+    "s:central-african-republic@1958",
+    "s:madagascar@1958"
+   ]
+  },
+  {
+   "rid": "s:mughal-empire@1811",
+   "maxKm2": 240520,
+   "from": 1820,
+   "to": 1856,
+   "winners": [
+    "s:qing-dynasty@1820",
+    "s:spanish-empire@1820",
+    "s:british-empire@1820",
+    "s:durrani-empire@1820",
+    "s:british-colonial-empire@1820",
+    "s:sikh-empire@1820"
+   ]
+  },
+  {
+   "rid": "s:hamdanid-emirates@1066",
+   "maxKm2": 237638,
+   "from": 1072,
+   "to": 1125,
+   "winners": [
+    "s:great-seljuk-empire@1072",
+    "s:kimek-kipchak-confederation@1072",
+    "s:fatimid-caliphate@1072",
+    "s:byzantine-empire@1072",
+    "s:kingdom-of-georgia@1072",
+    "s:shirvan@1072"
+   ]
+  },
+  {
+   "rid": "s:empire-of-japan@1945",
+   "maxKm2": 231334,
+   "from": 1945,
+   "to": 1945,
+   "winners": [
+    "s:republic-of-china@1945",
+    "s:british-raj@1945",
+    "s:mongolian-peoples-republic@1945",
+    "s:kingdom-of-italy@1945",
+    "s:soviet-civil-administration-korea@1945",
+    "s:united-states-army-military-government-in-korea@1945"
+   ]
+  },
+  {
+   "rid": "s:english-colonial-empire@1702",
+   "maxKm2": 226864,
+   "from": 1709,
+   "to": 1712,
+   "winners": [
+    "s:haudenosaunee@1702",
+    "s:new-netherland@1702",
+    "s:ashanti-empire@1702",
+    "s:qing-dynasty@1706",
+    "s:ottoman-empire@1706",
+    "s:portuguese-empire@1706"
+   ]
+  },
+  {
+   "rid": "s:batavian-republic@1796",
+   "maxKm2": 224522,
+   "from": 1800,
+   "to": 1802,
+   "winners": [
+    "s:vientiane@1796",
+    "s:khmer-empire@1796",
+    "s:beylik-of-tunis@1796",
+    "s:karamanli-dynasty@1796",
+    "s:kingdom-of-champasak@1796",
+    "s:british-ceylon@1796"
+   ]
+  },
+  {
+   "rid": "s:british-colonial-empire@1963",
+   "maxKm2": 215208,
+   "from": 1967,
+   "to": 1968,
+   "winners": [
+    "s:republic-of-tunisia@1963",
+    "s:jamaica@1963",
+    "s:republic-of-trinidad-and-tobago@1963",
+    "s:zambia@1964",
+    "s:malawi@1964",
+    "s:rhodesia@1965"
+   ]
+  },
+  {
+   "rid": "s:nazi-germany@1944",
+   "maxKm2": 205190,
+   "from": 1944,
+   "to": 1944,
+   "winners": [
+    "s:french-algeria@1944",
+    "s:british-military-administration-libya@1944",
+    "s:kingdom-of-egypt@1944",
+    "s:fezzan-ghadames-military-territory@1944",
+    "s:kingdom-of-iraq@1944",
+    "s:french-protectorate-in-morocco@1944"
+   ]
+  },
+  {
+   "rid": "s:republic-of-mali@1960",
+   "maxKm2": 202032,
+   "from": 1960,
+   "to": 1960,
+   "winners": [
+    "s:republic-of-the-niger@1960",
+    "s:mauritania@1960",
+    "s:federal-republic-of-nigeria@1960",
+    "s:francoist-spain@1960",
+    "s:republic-of-cote-divoire@1960",
+    "s:republic-of-upper-volta@1960"
+   ]
+  },
+  {
+   "rid": "s:united-arab-republic@1960",
+   "maxKm2": 188064,
+   "from": 1961,
+   "to": 1966,
+   "winners": [
+    "s:iraqi-republic@1960",
+    "s:kingdom-of-jordan@1960",
+    "s:republic-of-cyprus@1960",
+    "s:republic-of-sudan@1961",
+    "s:french-fifth-republic@1961",
+    "s:republic-of-syria@1961"
+   ]
+  },
+  {
+   "rid": "s:northern-nigeria-protectorate@1905",
+   "maxKm2": 182732,
+   "from": 1905,
+   "to": 1913,
+   "winners": [
+    "s:kingdom-of-spain@1905",
+    "s:german-empire@1905",
+    "s:united-kingdom-of-great-britain-and-ireland@1905",
+    "s:kamerun@1905",
+    "s:southern-nigeria-protectorate@1905",
+    "s:lagos-colony@1885"
+   ]
+  },
+  {
+   "rid": "s:kingdom-of-italy@960",
+   "maxKm2": 160126,
+   "from": 961,
+   "to": 969,
+   "winners": [
+    "s:kingdom-of-germany@961",
+    "s:kingdom-of-arles@961",
+    "s:kingdom-of-croatia@961",
+    "s:papal-states@961",
+    "s:republic-of-venice@961"
+   ]
+  },
+  {
+   "rid": "s:netherlands-antilles@1877",
+   "maxKm2": 147628,
+   "from": 1976,
+   "to": 2023,
+   "winners": [
+    "s:venezuela@1900",
+    "s:dominican-republic@1924",
+    "s:republic-of-colombia@1928",
+    "s:republic-of-trinidad-and-tobago@1963",
+    "s:united-states-of-america@1967",
+    "s:federated-republic-of-brazil@1967"
+   ]
+  },
+  {
+   "rid": "s:kingdom-of-the-franks@644",
+   "maxKm2": 132529,
+   "from": 661,
+   "to": 665,
+   "winners": [
+    "s:aquitaine@661",
+    "s:bavarians@661",
+    "s:frisia-kingdom@661",
+    "s:duchy-of-thuringia@661"
+   ]
+  },
+  {
+   "rid": "s:karkota-dynasty@626",
+   "maxKm2": 127098,
+   "from": 644,
+   "to": 655,
+   "winners": [
+    "s:kashmir@634",
+    "s:rashidun-caliphate@644",
+    "s:western-gokturks@644",
+    "s:turk-shahis@644",
+    "s:sasanian-empire@644"
+   ]
+  },
+  {
+   "rid": "s:united-kingdom@1941",
+   "maxKm2": 124069,
+   "from": 1942,
+   "to": 1944,
+   "winners": [
+    "s:french-indochina@1941",
+    "s:kingdom-of-hungary@1941",
+    "s:kingdom-of-bulgaria@1941",
+    "s:independent-state-of-croatia@1941",
+    "s:union-of-soviet-socialist-republics@1942",
+    "s:united-states-of-america@1942"
+   ]
+  },
+  {
+   "rid": "s:brandenburg-prussia@1700",
+   "maxKm2": 122690,
+   "from": 1702,
+   "to": 1717,
+   "winners": [
+    "s:republic-of-venice@1700",
+    "s:dutch-gold-coast@1700",
+    "s:spanish-empire@1702",
+    "s:swedish-empire@1702",
+    "s:polish-lithuanian-commonwealth@1702",
+    "s:kingdom-of-france@1702"
+   ]
+  },
+  {
+   "rid": "s:united-kingdom@1945",
+   "maxKm2": 120262,
+   "from": 1945,
+   "to": 1946,
+   "winners": [
+    "s:republic-of-turkey@1945",
+    "s:french-fourth-republic@1945",
+    "s:fezzan-ghadames-military-territory@1945",
+    "s:kingdom-of-sweden@1945",
+    "s:kingdom-of-iraq@1945",
+    "s:french-cameroon@1945"
+   ]
+  },
+  {
+   "rid": "s:united-states-of-america@1945",
+   "maxKm2": 118225,
+   "from": 1945,
+   "to": 1945,
+   "winners": [
+    "s:unitary-state-of-brazil@1945",
+    "s:commonwealth-of-australia@1945",
+    "s:empire-of-japan@1945",
+    "s:republic-of-china@1945",
+    "s:british-raj@1945",
+    "s:french-west-africa@1945"
+   ]
+  },
+  {
+   "rid": "s:denmark@1864",
+   "maxKm2": 111423,
+   "from": 1918,
+   "to": 1921,
+   "winners": [
+    "s:kingdom-of-norway@1905",
+    "s:kingdom-of-sweden@1908",
+    "s:greenland@1915",
+    "s:british-colonial-empire@1918",
+    "s:united-states-of-america@1918",
+    "s:german-empire@1918"
+   ]
+  },
+  {
+   "rid": "s:british-colonial-empire@1969",
+   "maxKm2": 111328,
+   "from": 1973,
+   "to": 1995,
+   "winners": [
+    "s:republic-of-dahomey@1969",
+    "s:mauritius@1969",
+    "s:saint-vincent@1969",
+    "s:zaire@1971",
+    "s:united-arab-emirates@1971",
+    "s:state-of-qatar@1971"
+   ]
+  },
+  {
+   "rid": "s:sultanate-of-brunei@1512",
+   "maxKm2": 111127,
+   "from": 1521,
+   "to": 1581,
+   "winners": [
+    "s:portuguese-empire@1521",
+    "s:sultanate-of-maguindanao@1521",
+    "s:maynila@1521"
+   ]
+  },
+  {
+   "rid": "s:wu@-550",
+   "maxKm2": 110540,
+   "from": -500,
+   "to": -481,
+   "winners": [
+    "s:jin@-550",
+    "s:yue@-500"
+   ]
+  },
+  {
+   "rid": "s:byzantine-empire@1177",
+   "maxKm2": 108814,
+   "from": 1185,
+   "to": 1187,
+   "winners": [
+    "s:kingdom-of-hungary@1177",
+    "s:zengid-dynasty@1177",
+    "s:sultanate-of-rum@1177",
+    "s:danishmendids@1177",
+    "s:principality-of-antioch@1177",
+    "s:second-bulgarian-empire@1185"
+   ]
+  },
+  {
+   "rid": "s:kingdom-of-spain@1748",
+   "maxKm2": 92237,
+   "from": 1762,
+   "to": 1777,
+   "winners": [
+    "s:kingdom-of-sardinia@1748",
+    "s:republic-of-venice@1748",
+    "s:papal-states@1748",
+    "s:republic-of-genoa@1748",
+    "s:corsican-republic@1757",
+    "s:russian-empire@1762"
+   ]
+  },
+  {
+   "rid": "s:majapahit@1402",
+   "maxKm2": 88802,
+   "from": 1459,
+   "to": 1474,
+   "winners": [
+    "s:ayutthaya-kingdom@1459",
+    "s:sultanate-of-palembang@1459",
+    "s:sultanate-of-kedah@1459",
+    "s:samudera-pasai-sultanate@1459",
+    "s:sultanate-of-malacca@1459",
+    "s:sultanate-of-sulu@1459"
+   ]
+  },
+  {
+   "rid": "s:northern-liang@402",
+   "maxKm2": 88291,
+   "from": 407,
+   "to": 409,
+   "winners": [
+    "s:rouran-khaganate@407",
+    "s:later-qin@407",
+    "s:western-liang@407",
+    "s:later-yan@407"
+   ]
+  },
+  {
+   "rid": "s:western-roman-empire@443",
+   "maxKm2": 79519,
+   "from": 443,
+   "to": 450,
+   "winners": [
+    "s:hunnic-empire@443",
+    "s:vandal-kingdom@443",
+    "s:burgundian-kingdom@443"
+   ]
+  },
+  {
+   "rid": "s:kingdom-of-portugal@1521",
+   "maxKm2": 76109,
+   "from": 1552,
+   "to": 1555,
+   "winners": [
+    "s:khanate-of-khiva@1521",
+    "s:republic-of-venice@1526",
+    "s:kazakh-khanate@1529",
+    "s:papal-states@1529",
+    "s:funj-sultanate@1540",
+    "s:kingdom-of-spain@1547"
+   ]
+  },
+  {
+   "rid": "s:chola-empire@1056",
+   "maxKm2": 69654,
+   "from": 1072,
+   "to": 1093,
+   "winners": [
+    "s:eastern-ganga-kingdom@1056",
+    "s:kingdom-of-polonnaruwa@1072"
+   ]
+  },
+  {
+   "rid": "s:germiyanids@1375",
+   "maxKm2": 66479,
+   "from": 1402,
+   "to": 1406,
+   "winners": [
+    "s:beylik-of-teke@1375",
+    "s:timurid-empire@1402",
+    "s:mamluk-sultanate@1402",
+    "s:ottoman-empire@1402",
+    "s:beylik-of-karaman@1402",
+    "s:beylik-of-isfendiyar@1402"
+   ]
+  },
+  {
+   "rid": "s:french-fourth-republic@1945",
+   "maxKm2": 65947,
+   "from": 1945,
+   "to": 1945,
+   "winners": [
+    "s:fezzan-ghadames-military-territory@1945",
+    "s:french-cameroon@1945",
+    "s:french-protectorate-in-morocco@1945",
+    "s:kingdom-of-italy@1945",
+    "s:federal-peoples-republic-of-yugoslavia@1945",
+    "s:french-protectorate-of-tunisia@1945"
+   ]
+  },
+  {
+   "rid": "s:elam@-2200",
+   "maxKm2": 64135,
+   "from": -2154,
+   "to": -2120,
+   "winners": [
+    "s:gutian-dynasty@-2154"
+   ]
+  },
+  {
+   "rid": "s:old-great-bulgaria@674",
+   "maxKm2": 62411,
+   "from": 681,
+   "to": 681,
+   "winners": [
+    "s:first-bulgarian-empire@681"
+   ]
+  },
+  {
+   "rid": "s:kingdom-of-france@1556",
+   "maxKm2": 61851,
+   "from": 1556,
+   "to": 1563,
+   "winners": [
+    "s:habsburg-monarchy@1556",
+    "s:holy-roman-empire-minor-states@1556",
+    "s:kingdom-of-england@1556",
+    "s:kingdom-of-portugal@1556",
+    "s:house-of-bourbon@1556",
+    "s:swiss-confederation@1556"
+   ]
+  },
+  {
+   "rid": "s:greek-city-states@-318",
+   "maxKm2": 61169,
+   "from": -315,
+   "to": -308,
+   "winners": [
+    "s:roman-republic@-318",
+    "s:macedonian-empire@-315",
+    "s:kingdom-of-armenia@-315",
+    "s:kingdom-of-lysimachus@-315"
+   ]
+  },
+  {
+   "rid": "s:abbasid-caliphate@886",
+   "maxKm2": 56346,
+   "from": 888,
+   "to": 891,
+   "winners": [
+    "s:saffarid-dynasty@886",
+    "s:byzantine-empire@886",
+    "s:bagratid-armenia@886",
+    "s:shirvan@886",
+    "s:zaydi-alid-dynasties@886",
+    "s:kingdom-of-the-iberians@886"
+   ]
+  },
+  {
+   "rid": "s:sultanate-of-malacca@1552",
+   "maxKm2": 54152,
+   "from": 1572,
+   "to": 1639,
+   "winners": [
+    "s:sultanate-of-palembang@1556",
+    "s:spanish-empire@1572",
+    "s:sultanate-of-banten@1572",
+    "s:kingdom-of-pajana@1572",
+    "s:portuguese-colonies@1572",
+    "s:sultanate-of-perak@1572"
+   ]
+  },
+  {
+   "rid": "s:germiyanids@1415",
+   "maxKm2": 53084,
+   "from": 1429,
+   "to": 1430,
+   "winners": [
+    "s:byzantine-empire@1415",
+    "s:republic-of-genoa@1422",
+    "s:ottoman-empire@1429",
+    "s:beylik-of-karaman@1429"
+   ]
+  },
+  {
+   "rid": "s:french-fourth-republic@1946",
+   "maxKm2": 53078,
+   "from": 1946,
+   "to": 1946,
+   "winners": [
+    "s:fezzan-ghadames-military-territory@1946",
+    "s:french-cameroon@1946",
+    "s:french-protectorate-in-morocco@1946",
+    "s:republic-of-italy@1946",
+    "s:federal-peoples-republic-of-yugoslavia@1946",
+    "s:french-protectorate-of-tunisia@1946"
+   ]
+  },
+  {
+   "rid": "s:french-fourth-republic@1947",
+   "maxKm2": 52875,
+   "from": 1947,
+   "to": 1948,
+   "winners": [
+    "s:federal-peoples-republic-of-yugoslavia@1947",
+    "s:czechoslovakia@1947",
+    "s:second-republic-of-austria@1947",
+    "s:allied-occupied-germany-soviet-zone@1945",
+    "s:allied-occupied-germany-us-zone@1945",
+    "s:allied-occupied-germany-british-zone@1945"
+   ]
+  },
+  {
+   "rid": "s:spanish-empire@1861",
+   "maxKm2": 52748,
+   "from": 1865,
+   "to": 1872,
+   "winners": [
+    "s:morocco@1861",
+    "s:honduras@1861",
+    "s:republic-of-nicaragua@1861",
+    "s:dutch-gold-coast@1861",
+    "s:dutch-east-indies@1862",
+    "s:sultanate-of-aceh@1862"
+   ]
+  },
+  {
+   "rid": "s:french-fourth-republic@1949",
+   "maxKm2": 52628,
+   "from": 1949,
+   "to": 1949,
+   "winners": [
+    "s:federal-peoples-republic-of-yugoslavia@1949",
+    "s:federal-republic-of-germany@1949",
+    "s:czechoslovakia@1949",
+    "s:german-democratic-republic@1949",
+    "s:allied-occupied-austria@1945",
+    "s:saar-protectorate@1946"
+   ]
+  },
+  {
+   "rid": "s:kingdom-of-france@1227",
+   "maxKm2": 52589,
+   "from": 1236,
+   "to": 1240,
+   "winners": [
+    "s:holy-roman-empire@1236",
+    "s:crown-of-castile@1236",
+    "s:kingdom-of-england@1236",
+    "s:crown-of-aragon@1236",
+    "s:kingdom-of-portugal@1236",
+    "s:county-of-toulouse@1236"
+   ]
+  },
+  {
+   "rid": "s:crimean-khanate@1552",
+   "maxKm2": 50498,
+   "from": 1564,
+   "to": 1571,
+   "winners": [
+    "s:don-cossacks@1552",
+    "s:ottoman-empire@1564",
+    "s:tsardom-of-russia@1564",
+    "s:house-of-jagiellon@1564",
+    "s:small-horde@1564",
+    "s:republic-of-venice@1564"
+   ]
+  },
+  {
+   "rid": "s:kingdom-of-spain@1718",
+   "maxKm2": 48561,
+   "from": 1721,
+   "to": 1733,
+   "winners": [
+    "s:republic-of-venice@1718",
+    "s:spanish-empire@1721",
+    "s:habsburg-monarchy@1721",
+    "s:british-colonial-empire@1721",
+    "s:dutch-republic@1721",
+    "s:new-france@1721"
+   ]
+  },
+  {
+   "rid": "s:avar-khaganate@674",
+   "maxKm2": 47840,
+   "from": 681,
+   "to": 681,
+   "winners": [
+    "s:old-great-bulgaria@674",
+    "s:first-bulgarian-empire@681"
+   ]
+  },
+  {
+   "rid": "s:ruanda-urundi@1961",
+   "maxKm2": 47081,
+   "from": 1962,
+   "to": 1962,
+   "winners": [
+    "s:belgian-congo@1961",
+    "s:french-fifth-republic@1962",
+    "s:republic-of-uganda@1962",
+    "s:republic-of-rwanda@1962",
+    "s:republic-of-burundi@1962"
+   ]
+  },
+  {
+   "rid": "s:kingdom-of-polonnaruwa@1072",
+   "maxKm2": 46738,
+   "from": 1236,
+   "to": 1249,
+   "winners": [
+    "s:ceylon@1236",
+    "s:kingdom-of-dambadeniya@1236"
+   ]
+  },
+  {
+   "rid": "s:viking-settlements@1028",
+   "maxKm2": 46146,
+   "from": 1072,
+   "to": 1325,
+   "winners": [
+    "s:brythons@1040",
+    "s:kingdom-of-poland@1056",
+    "s:kingdom-of-sweden@1056",
+    "s:kingdom-of-denmark@1056",
+    "s:holy-roman-empire@1066",
+    "s:old-kingdom-of-norway@1066"
+   ]
+  },
+  {
+   "rid": "s:duchy-of-bavaria@1363",
+   "maxKm2": 44258,
+   "from": 1375,
+   "to": 1384,
+   "winners": [
+    "s:house-of-ascania@1363",
+    "s:electorate-of-trier@1363",
+    "s:swiss-confederation@1363",
+    "s:house-of-luxembourg@1363",
+    "s:holy-roman-empire-minor-states@1375",
+    "s:kingdom-of-sweden@1375"
+   ]
+  },
+  {
+   "rid": "s:republic-of-china@1950",
+   "maxKm2": 40208,
+   "from": 1953,
+   "to": 2023,
+   "winners": [
+    "s:peoples-republic-of-china@1953",
+    "s:french-indochina@1953"
+   ]
+  },
+  {
+   "rid": "s:kingdom-of-portugal@1564",
+   "maxKm2": 39714,
+   "from": 1572,
+   "to": 1581,
+   "winners": [
+    "s:portuguese-africa@1564",
+    "s:republic-of-genoa@1564",
+    "s:spanish-empire@1572",
+    "s:ottoman-empire@1572",
+    "s:kazakh-khanate@1572",
+    "s:kingdom-of-spain@1572"
+   ]
+  },
+  {
+   "rid": "s:portuguese-colonies@1653",
+   "maxKm2": 39690,
+   "from": 1659,
+   "to": 1661,
+   "winners": [
+    "s:ai-viet@1653",
+    "s:spanish-empire@1659",
+    "s:qing-dynasty@1659",
+    "s:mughal-empire@1659",
+    "s:first-toungoo-empire@1659",
+    "s:lan-xang@1659"
+   ]
+  },
+  {
+   "rid": "s:portuguese-empire@1556",
+   "maxKm2": 37831,
+   "from": 1564,
+   "to": 1571,
+   "winners": [
+    "s:sultanate-of-palembang@1556",
+    "s:sultanate-of-banten@1556",
+    "s:spanish-empire@1564",
+    "s:ming-dynasty@1564",
+    "s:ottoman-empire@1564",
+    "s:mughal-empire@1564"
+   ]
+  },
+  {
+   "rid": "s:kingdom-of-sweden@1344",
+   "maxKm2": 37765,
+   "from": 1363,
+   "to": 1374,
+   "winners": [
+    "s:teutonic-order@1352",
+    "s:grand-duchy-of-lithuania@1363",
+    "s:old-kingdom-of-norway@1363",
+    "s:kingdom-of-england@1363",
+    "s:kingdom-of-denmark@1363",
+    "s:norse-greenland@1363"
+   ]
+  },
+  {
+   "rid": "s:german-empire@1890",
+   "maxKm2": 36207,
+   "from": 1895,
+   "to": 1897,
+   "winners": [
+    "s:nepal@1890",
+    "s:kingdom-of-bhutan@1890",
+    "s:kelantan@1890",
+    "s:luxembourg@1890",
+    "s:russian-empire@1895",
+    "s:british-colonial-empire@1895"
+   ]
+  },
+  {
+   "rid": "s:kingdom-of-axum@238",
+   "maxKm2": 36038,
+   "from": 247,
+   "to": 352,
+   "winners": [
+    "s:sabaeans@247"
+   ]
+  },
+  {
+   "rid": "s:kingdom-of-england@1440",
+   "maxKm2": 35200,
+   "from": 1453,
+   "to": 1458,
+   "winners": [
+    "s:kalmar-union@1453",
+    "s:crown-of-aragon@1453",
+    "s:kingdom-of-france@1453",
+    "s:duchy-of-burgundy@1453",
+    "s:house-of-valois-anjou@1453",
+    "s:duchy-of-brittany@1453"
+   ]
+  },
+  {
+   "rid": "s:kingdom-of-sardinia@1800",
+   "maxKm2": 34910,
+   "from": 1803,
+   "to": 1813,
+   "winners": [
+    "s:united-kingdom-of-great-britain-and-ireland@1801",
+    "s:russian-empire@1803",
+    "s:british-empire@1803",
+    "s:british-colonial-empire@1803",
+    "s:habsburg-monarchy@1803",
+    "s:french-consulate@1803"
+   ]
+  },
+  {
+   "rid": "s:nazi-germany@1940",
+   "maxKm2": 33310,
+   "from": 1940,
+   "to": 1940,
+   "winners": [
+    "s:italian-libya@1940",
+    "s:kingdom-of-egypt@1940",
+    "s:francoist-spain@1940",
+    "s:united-kingdom@1940",
+    "s:french-protectorate-in-morocco@1940",
+    "s:vichy-france@1940"
+   ]
+  },
+  {
+   "rid": "s:new-france@1763",
+   "maxKm2": 32940,
+   "from": 1769,
+   "to": 1779,
+   "winners": [
+    "s:khanates-of-the-caucasus@1763",
+    "s:kingdom-of-georgia@1763",
+    "s:russian-empire@1769",
+    "s:spanish-empire@1769",
+    "s:portuguese-empire@1769",
+    "s:ottoman-empire@1769"
+   ]
+  },
+  {
+   "rid": "s:nazi-germany@1942",
+   "maxKm2": 32874,
+   "from": 1942,
+   "to": 1942,
+   "winners": [
+    "s:free-french@1942",
+    "s:french-algeria@1942",
+    "s:british-colonial-empire@1942",
+    "s:italian-libya@1942",
+    "s:francoist-spain@1942",
+    "s:republic-of-finland@1942"
+   ]
+  },
+  {
+   "rid": "s:nazi-germany@1943",
+   "maxKm2": 32705,
+   "from": 1943,
+   "to": 1943,
+   "winners": [
+    "s:french-algeria@1943",
+    "s:kingdom-of-saudi-arabia@1943",
+    "s:italian-libya@1943",
+    "s:francoist-spain@1943",
+    "s:kingdom-of-italy@1943",
+    "s:kingdom-of-iraq@1943"
+   ]
+  },
+  {
+   "rid": "s:nazi-germany@1939",
+   "maxKm2": 32700,
+   "from": 1939,
+   "to": 1939,
+   "winners": [
+    "s:french-third-republic@1939",
+    "s:second-polish-republic@1939",
+    "s:kingdom-of-italy@1939",
+    "s:kingdom-of-romania@1939",
+    "s:french-mandate-for-syria-and-lebanon@1939",
+    "s:kingdom-of-hungary@1939"
+   ]
+  },
+  {
+   "rid": "s:nazi-germany@1941",
+   "maxKm2": 32336,
+   "from": 1941,
+   "to": 1941,
+   "winners": [
+    "s:italian-libya@1941",
+    "s:united-kingdom@1941",
+    "s:kingdom-of-italy@1941",
+    "s:french-protectorate-in-morocco@1941",
+    "s:kingdom-of-romania@1941",
+    "s:kingdom-of-hungary@1941"
+   ]
+  },
+  {
+   "rid": "s:kingdom-of-the-franks@705",
+   "maxKm2": 32136,
+   "from": 710,
+   "to": 717,
+   "winners": [
+    "s:kingdom-of-italy@705",
+    "s:kingdom-of-mercia@705",
+    "s:kingdom-of-kent@705",
+    "s:kingdom-of-gwent@705",
+    "s:visigothic-kingdom@710",
+    "s:frisia-kingdom@710"
+   ]
+  },
+  {
+   "rid": "s:kingdom-of-belgium@1900",
+   "maxKm2": 30226,
+   "from": 1915,
+   "to": 1918,
+   "winners": [
+    "s:french-indochina@1908",
+    "s:kingdom-of-spain@1912",
+    "s:kingdom-of-italy@1912",
+    "s:kingdom-of-greece@1913",
+    "s:kingdom-of-bulgaria@1913",
+    "s:albania@1913"
+   ]
+  },
+  {
+   "rid": "s:holy-roman-empire-minor-states@1363",
+   "maxKm2": 30068,
+   "from": 1363,
+   "to": 1374,
+   "winners": [
+    "s:kingdom-of-hungary@1363",
+    "s:kingdom-of-poland@1363",
+    "s:kingdom-of-france@1363",
+    "s:kingdom-of-bohemia@1363",
+    "s:crown-of-aragon@1363",
+    "s:house-of-habsburg@1363"
+   ]
+  },
+  {
+   "rid": "s:papal-states@1807",
+   "maxKm2": 29715,
+   "from": 1809,
+   "to": 1810,
+   "winners": [
+    "s:russian-empire@1809",
+    "s:british-empire@1809",
+    "s:first-french-empire@1809",
+    "s:british-colonial-empire@1809",
+    "s:italian-republic@1809"
+   ]
+  },
+  {
+   "rid": "s:francoist-spain@1961",
+   "maxKm2": 29589,
+   "from": 1968,
+   "to": 1972,
+   "winners": [
+    "s:republic-of-cameroon@1961",
+    "s:ghana@1961",
+    "s:sierra-leone@1961",
+    "s:peoples-democratic-republic-of-algeria@1962",
+    "s:french-fifth-republic@1962",
+    "s:british-colonial-empire@1963"
+   ]
+  },
+  {
+   "rid": "s:kingdom-of-sardinia@1797",
+   "maxKm2": 28339,
+   "from": 1799,
+   "to": 1799,
+   "winners": [
+    "s:russian-empire@1799",
+    "s:spanish-empire@1799",
+    "s:british-empire@1799",
+    "s:british-colonial-empire@1799",
+    "s:french-directory@1799",
+    "s:habsburg-monarchy@1799"
+   ]
+  },
+  {
+   "rid": "s:sultanate-of-oman@1812",
+   "maxKm2": 28201,
+   "from": 1814,
+   "to": 1814,
+   "winners": [
+    "s:portuguese-empire@1814",
+    "s:spanish-empire@1814",
+    "s:ottoman-empire@1814",
+    "s:emirate-of-diriyah@1814",
+    "s:british-empire@1814",
+    "s:british-colonial-empire@1814"
+   ]
+  },
+  {
+   "rid": "s:county-of-blois@1034",
+   "maxKm2": 27518,
+   "from": 1040,
+   "to": 1045,
+   "winners": [
+    "s:county-of-nevers@1034",
+    "s:holy-roman-empire@1040",
+    "s:denmark-england@1040",
+    "s:county-of-champagne@1040",
+    "s:kingdom-of-arles@1040"
+   ]
+  },
+  {
+   "rid": "s:kingdom-of-denmark@970",
+   "maxKm2": 27441,
+   "from": 980,
+   "to": 989,
+   "winners": [
+    "s:holy-roman-empire@980",
+    "s:old-kingdom-of-norway@980",
+    "s:kingdom-of-poland@980",
+    "s:scandinavian-minor-kingdoms@980",
+    "s:kingdom-of-sweden@980",
+    "s:viking-settlements@980"
+   ]
+  },
+  {
+   "rid": "s:taifa-of-denia@1015",
+   "maxKm2": 26564,
+   "from": 1018,
+   "to": 1039,
+   "winners": [
+    "s:taifa-of-granada@1015",
+    "s:taifa-of-almeria@1015",
+    "s:taifa-of-albarracin@1015",
+    "s:taifa-of-murcia@1015",
+    "s:taifa-of-alpuente@1015",
+    "s:taifa-of-zaragoza@1018"
+   ]
+  },
+  {
+   "rid": "s:second-french-empire@1863",
+   "maxKm2": 26410,
+   "from": 1864,
+   "to": 1869,
+   "winners": [
+    "s:russian-empire@1864",
+    "s:british-colonial-empire@1864",
+    "s:united-states-of-america@1864",
+    "s:federated-republic-of-mexico@1864",
+    "s:confederate-states-of-america@1864",
+    "s:austrian-empire@1864"
+   ]
+  },
+  {
+   "rid": "s:assyria@-1760",
+   "maxKm2": 25358,
+   "from": -1750,
+   "to": -1701,
+   "winners": [
+    "s:babylonia@-1750"
+   ]
+  },
+  {
+   "rid": "s:county-of-blois@1085",
+   "maxKm2": 25109,
+   "from": 1094,
+   "to": 1110,
+   "winners": [
+    "s:kingdom-of-france@1085",
+    "s:county-of-vermandois@1085",
+    "s:holy-roman-empire@1094",
+    "s:norman-england@1094",
+    "s:county-of-champagne@1094"
+   ]
+  },
+  {
+   "rid": "s:republic-of-pisa@1260",
+   "maxKm2": 25036,
+   "from": 1326,
+   "to": 1394,
+   "winners": [
+    "s:republic-of-florence@1279",
+    "s:republic-of-genoa@1314",
+    "s:holy-roman-empire-minor-states@1326",
+    "s:crown-of-aragon@1326",
+    "s:giudicato-of-arborea@1326"
+   ]
+  },
+  {
+   "rid": "s:new-netherland@1797",
+   "maxKm2": 25014,
+   "from": 1799,
+   "to": 1799,
+   "winners": [
+    "s:spanish-empire@1799",
+    "s:british-empire@1799",
+    "s:british-colonial-empire@1799",
+    "s:french-directory@1799"
+   ]
+  },
+  {
+   "rid": "s:small-horde@1588",
+   "maxKm2": 24971,
+   "from": 1595,
+   "to": 1635,
+   "winners": [
+    "s:tsardom-of-russia@1595",
+    "s:ottoman-empire@1595",
+    "s:kazakh-khanate@1595",
+    "s:iberian-union@1595",
+    "s:don-cossacks@1595",
+    "s:crimean-khanate@1595"
+   ]
+  },
+  {
+   "rid": "s:capetian-house-of-anjou@1272",
+   "maxKm2": 22984,
+   "from": 1294,
+   "to": 1325,
+   "winners": [
+    "s:county-of-flanders@1272",
+    "s:county-of-auvergne@1272",
+    "s:county-of-touraine@1272",
+    "s:dauphine@1272",
+    "s:county-of-perigord@1272",
+    "s:comtat-venaissin@1272"
+   ]
+  },
+  {
+   "rid": "s:vandal-kingdom@469",
+   "maxKm2": 22390,
+   "from": 476,
+   "to": 489,
+   "winners": [
+    "s:visigothic-kingdom@476",
+    "s:kingdom-of-odoacer@476",
+    "s:kingdom-of-soissons@476",
+    "s:kingdom-of-the-suebi@476"
+   ]
+  },
+  {
+   "rid": "s:greek-city-states@-42",
+   "maxKm2": 22205,
+   "from": 68,
+   "to": 77,
+   "winners": [
+    "s:roman-empire@68"
+   ]
+  },
+  {
+   "rid": "s:ukraine@1992",
+   "maxKm2": 21806,
+   "from": 2014,
+   "to": 2023,
+   "winners": [
+    "s:republic-of-poland@1992",
+    "s:romania@1992",
+    "s:republic-of-belarus@1992",
+    "s:republic-of-moldova@1992",
+    "s:slovakia@1993",
+    "s:hungary@1996"
+   ]
+  },
+  {
+   "rid": "s:russian-federation@2014",
+   "maxKm2": 21758,
+   "from": 2014,
+   "to": 2023,
+   "winners": [
+    "s:republic-of-turkey@2014",
+    "s:transnistria@1992",
+    "s:south-ossetia@1992",
+    "s:republic-of-moldova@1992~2",
+    "s:nagorno-karabakh@1996",
+    "s:crimea@2014"
+   ]
+  },
+  {
+   "rid": "s:russian-federation@2024",
+   "maxKm2": 21297,
+   "from": 2024,
+   "to": 2025,
+   "winners": [
+    "s:united-states-of-america@2024",
+    "s:peoples-republic-of-china@2024",
+    "s:kazakhstan@2024",
+    "s:mongolia@2024",
+    "s:republic-of-turkey@2024",
+    "s:french-fifth-republic@2024"
+   ]
+  },
+  {
+   "rid": "s:holy-roman-empire-minor-states@1294",
+   "maxKm2": 20496,
+   "from": 1294,
+   "to": 1304,
+   "winners": [
+    "s:kingdom-of-hungary@1294",
+    "s:kingdom-of-france@1294",
+    "s:crown-of-aragon@1294",
+    "s:kingdom-of-bohemia@1294",
+    "s:kingdom-of-serbia@1294",
+    "s:house-of-habsburg@1294"
+   ]
+  },
+  {
+   "rid": "s:greek-city-states@-77",
+   "maxKm2": 20345,
+   "from": -66,
+   "to": -64,
+   "winners": [
+    "s:roman-republic@-66",
+    "s:kingdom-of-pontus@-66",
+    "s:kingdom-of-cappadocia@-66"
+   ]
+  },
+  {
+   "rid": "s:sultanate-of-palembang@1809",
+   "maxKm2": 20328,
+   "from": 1812,
+   "to": 1819,
+   "winners": [
+    "s:portuguese-colonies@1809",
+    "s:spanish-empire@1812",
+    "s:british-colonial-empire@1812"
+   ]
+  }
+ ],
+ "vanished": [
+  {
+   "rid": "s:swiss-confederation@1294",
+   "vanished": true,
+   "from": 1314,
+   "to": 1314
+  },
+  {
+   "rid": "s:swiss-confederation@1333",
+   "vanished": true,
+   "from": 1344,
+   "to": 1344
+  },
+  {
+   "rid": "s:house-of-luxembourg@1294",
+   "vanished": true,
+   "from": 1352,
+   "to": 1352
+  },
+  {
+   "rid": "s:house-of-luxembourg@1363",
+   "vanished": true,
+   "from": 1385,
+   "to": 1385
+  },
+  {
+   "rid": "s:swiss-confederation@1363",
+   "vanished": true,
+   "from": 1385,
+   "to": 1385
+  },
+  {
+   "rid": "s:house-of-luxembourg@1395",
+   "vanished": true,
+   "from": 1402,
+   "to": 1402
+  },
+  {
+   "rid": "s:house-of-bourbon@1521",
+   "vanished": true,
+   "from": 1552,
+   "to": 1552
+  },
+  {
+   "rid": "s:principality-of-orange@1459",
+   "vanished": true,
+   "from": 1556,
+   "to": 1556
+  },
+  {
+   "rid": "s:comtat-venaissin@1482",
+   "vanished": true,
+   "from": 1670,
+   "to": 1670
+  },
+  {
+   "rid": "s:comtat-venaissin@1677",
+   "vanished": true,
+   "from": 1700,
+   "to": 1700
+  },
+  {
+   "rid": "s:danish-india@1757",
+   "vanished": true,
+   "from": 1788,
+   "to": 1788
+  },
+  {
+   "rid": "s:second-republic-of-austria@1946",
+   "vanished": true,
+   "from": 1946,
+   "to": 1946
+  },
+  {
+   "rid": "s:second-republic-of-austria@1947",
+   "vanished": true,
+   "from": 1953,
+   "to": 1953
+  }
+ ],
+ "corrections": [
+  {
+   "i": 0,
+   "op": "add",
+   "note": "Poland 1945..1946 313356 km2"
+  },
+  {
+   "i": 1,
+   "op": "add",
+   "note": "Polish People's Republic 1947..1952 313356 km2"
+  },
+  {
+   "i": 2,
+   "op": "rename",
+   "note": "2 rows"
+  },
+  {
+   "i": 3,
+   "op": "add",
+   "note": "Czechoslovakia 1945..1946 129209 km2"
+  },
+  {
+   "i": 4,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 5,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 6,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 7,
+   "op": "rename",
+   "note": "6 rows"
+  },
+  {
+   "i": 8,
+   "op": "add",
+   "note": "Kingdom of Hungary 1944..1944 173534 km2"
+  },
+  {
+   "i": 9,
+   "op": "add",
+   "note": "Hungary 1945..1946 91734 km2"
+  },
+  {
+   "i": 10,
+   "op": "rename",
+   "note": "1 rows (rows 12069 -> 12070)"
+  },
+  {
+   "i": 11,
+   "op": "add",
+   "note": "Kingdom of Romania 1945..1946 237596 km2"
+  },
+  {
+   "i": 12,
+   "op": "rename",
+   "note": "1 rows (rows 12071 -> 12072)"
+  },
+  {
+   "i": 13,
+   "op": "rename",
+   "note": "1 rows"
+  },
+  {
+   "i": 14,
+   "op": "rename",
+   "note": "11 rows (rows 12072 -> 12073)"
+  },
+  {
+   "i": 15,
+   "op": "add",
+   "note": "Kingdom of Bulgaria 1945..1945 109831 km2"
+  },
+  {
+   "i": 16,
+   "op": "add",
+   "note": "People's Republic of Bulgaria 1946..1946 109831 km2"
+  },
+  {
+   "i": 17,
+   "op": "add",
+   "note": "Allied-occupied Germany (US zone) 1945..1948 106306 km2"
+  },
+  {
+   "i": 18,
+   "op": "add",
+   "note": "Allied-occupied Germany (British zone) 1945..1948 97953 km2"
+  },
+  {
+   "i": 19,
+   "op": "add",
+   "note": "Allied-occupied Germany (French zone) 1945..1945 43508 km2"
+  },
+  {
+   "i": 20,
+   "op": "add",
+   "note": "Allied-occupied Germany (French zone) 1946..1948 40863 km2"
+  },
+  {
+   "i": 21,
+   "op": "add",
+   "note": "Allied-occupied Germany (Soviet zone) 1945..1948 107725 km2"
+  },
+  {
+   "i": 22,
+   "op": "add",
+   "note": "Berlin (four-power area) 1945..1948 886 km2"
+  },
+  {
+   "i": 23,
+   "op": "add",
+   "note": "Saar Protectorate 1946..1956 2645 km2"
+  },
+  {
+   "i": 24,
+   "op": "add",
+   "note": "West Berlin 1949..1990 484 km2"
+  },
+  {
+   "i": 25,
+   "op": "add",
+   "note": "East Berlin 1949..1990 402 km2"
+  },
+  {
+   "i": 26,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 27,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 28,
+   "op": "add",
+   "note": "Allied-occupied Austria 1945..1955 85108 km2"
+  },
+  {
+   "i": 29,
+   "op": "add",
+   "note": "Occupied Japan 1946..1951 410834 km2"
+  },
+  {
+   "i": 30,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 31,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 32,
+   "op": "add",
+   "note": "United States Army Military Government in Korea 1945..1947 102790 km2"
+  },
+  {
+   "i": 33,
+   "op": "add",
+   "note": "Soviet Civil Administration (Korea) 1945..1947 129339 km2"
+  },
+  {
+   "i": 34,
+   "op": "rename",
+   "note": "3 rows (rows 12088 -> 12089)"
+  },
+  {
+   "i": 35,
+   "op": "split",
+   "note": "5 rows -> 22 pieces"
+  },
+  {
+   "i": 36,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 37,
+   "op": "reshape",
+   "note": "1 rows (rows 12106 -> 12107)"
+  },
+  {
+   "i": 38,
+   "op": "reshape",
+   "note": "1 rows"
+  },
+  {
+   "i": 39,
+   "op": "add",
+   "note": "Comoros 1975..2025 862 km2"
+  },
+  {
+   "i": 40,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 41,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 42,
+   "op": "rename",
+   "note": "18 rows (rows 12108 -> 12109)"
+  },
+  {
+   "i": 43,
+   "op": "rename",
+   "note": "13 rows"
+  },
+  {
+   "i": 44,
+   "op": "reshape",
+   "note": "1 rows"
+  },
+  {
+   "i": 45,
+   "op": "reshape",
+   "note": "1 rows (rows 12109 -> 12110)"
+  },
+  {
+   "i": 46,
+   "op": "reshape",
+   "note": "1 rows"
+  },
+  {
+   "i": 47,
+   "op": "reshape",
+   "note": "1 rows"
+  },
+  {
+   "i": 48,
+   "op": "add",
+   "note": "Republic of Iraq 2006..2013 438925 km2"
+  },
+  {
+   "i": 49,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 50,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 51,
+   "op": "add",
+   "note": "United States Civil Administration of the Ryukyu Islands 1945..1971 3027 km2"
+  },
+  {
+   "i": 52,
+   "op": "rename",
+   "note": "13 rows"
+  },
+  {
+   "i": 53,
+   "op": "rename",
+   "note": "14 rows"
+  },
+  {
+   "i": 54,
+   "op": "split",
+   "note": "33 rows -> 656 pieces"
+  },
+  {
+   "i": 55,
+   "op": "split",
+   "note": "14 rows -> 52 pieces"
+  },
+  {
+   "i": 56,
+   "op": "split",
+   "note": "2 rows -> 41 pieces"
+  },
+  {
+   "i": 57,
+   "op": "split",
+   "note": "13 rows -> 52 pieces"
+  },
+  {
+   "i": 58,
+   "op": "split",
+   "note": "14 rows -> 46 pieces"
+  },
+  {
+   "i": 59,
+   "op": "split",
+   "note": "5 rows -> 19 pieces"
+  },
+  {
+   "i": 60,
+   "op": "split",
+   "note": "38 rows -> 337 pieces"
+  },
+  {
+   "i": 61,
+   "op": "split",
+   "note": "12 rows -> 19 pieces"
+  },
+  {
+   "i": 62,
+   "op": "delete",
+   "note": "43 rows (rows 13203 -> 13160)"
+  },
+  {
+   "i": 63,
+   "op": "delete",
+   "note": "16 rows (rows 13160 -> 13144)"
+  },
+  {
+   "i": 64,
+   "op": "delete",
+   "note": "8 rows (rows 13144 -> 13136)"
+  },
+  {
+   "i": 65,
+   "op": "delete",
+   "note": "14 rows (rows 13136 -> 13122)"
+  },
+  {
+   "i": 66,
+   "op": "delete",
+   "note": "14 rows (rows 13122 -> 13108)"
+  },
+  {
+   "i": 67,
+   "op": "delete",
+   "note": "30 rows (rows 13108 -> 13078)"
+  },
+  {
+   "i": 68,
+   "op": "rename",
+   "note": "1 rows"
+  },
+  {
+   "i": 69,
+   "op": "rename",
+   "note": "1 rows"
+  },
+  {
+   "i": 70,
+   "op": "rename",
+   "note": "1 rows"
+  },
+  {
+   "i": 71,
+   "op": "rename",
+   "note": "1 rows"
+  },
+  {
+   "i": 72,
+   "op": "rename",
+   "note": "1 rows"
+  },
+  {
+   "i": 73,
+   "op": "rename",
+   "note": "1 rows"
+  },
+  {
+   "i": 74,
+   "op": "rename",
+   "note": "1 rows"
+  },
+  {
+   "i": 75,
+   "op": "rename",
+   "note": "1 rows"
+  },
+  {
+   "i": 76,
+   "op": "rename",
+   "note": "1 rows"
+  },
+  {
+   "i": 77,
+   "op": "rename",
+   "note": "2 rows"
+  },
+  {
+   "i": 78,
+   "op": "rename",
+   "note": "1 rows"
+  },
+  {
+   "i": 79,
+   "op": "rename",
+   "note": "1 rows"
+  },
+  {
+   "i": 80,
+   "op": "rename",
+   "note": "1 rows"
+  },
+  {
+   "i": 81,
+   "op": "add",
+   "note": "Lagos Colony 1885..1905 3521 km2"
+  },
+  {
+   "i": 82,
+   "op": "add",
+   "note": "Southern Nigeria Protectorate 1905..1913 185809 km2"
+  },
+  {
+   "i": 83,
+   "op": "add",
+   "note": "Transvaal Colony 1900..1909 319436 km2"
+  },
+  {
+   "i": 84,
+   "op": "add",
+   "note": "Orange River Colony 1900..1909 129311 km2"
+  },
+  {
+   "i": 85,
+   "op": "add",
+   "note": "British Somaliland 1885..1939 169991 km2"
+  },
+  {
+   "i": 86,
+   "op": "add",
+   "note": "British Somaliland 1941..1959 169991 km2"
+  },
+  {
+   "i": 87,
+   "op": "add",
+   "note": "Italian East Africa 1940..1940 171600 km2"
+  },
+  {
+   "i": 88,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 89,
+   "op": "rename",
+   "note": "8 rows (rows 13085 -> 13086)"
+  },
+  {
+   "i": 90,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 91,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 92,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 93,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 94,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 95,
+   "op": "add",
+   "note": "Third Dynasty of Ur -2112..-2004 296651 km2"
+  },
+  {
+   "i": 96,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 97,
+   "op": "add",
+   "note": "Kingdom of Odoacer 476..493 386257 km2"
+  },
+  {
+   "i": 98,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 99,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 100,
+   "op": "rename",
+   "note": "1 rows"
+  },
+  {
+   "i": 101,
+   "op": "rename",
+   "note": "1 rows"
+  },
+  {
+   "i": 102,
+   "op": "delete",
+   "note": "1 rows (rows 13088 -> 13087)"
+  },
+  {
+   "i": 103,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 104,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 105,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 106,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 107,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 108,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 109,
+   "op": "delete",
+   "note": "1 rows (rows 13087 -> 13086)"
+  },
+  {
+   "i": 110,
+   "op": "rename",
+   "note": "1 rows"
+  },
+  {
+   "i": 111,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 112,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 113,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 114,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 115,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 116,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 117,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 118,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 119,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 120,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 121,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 122,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 123,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 124,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 125,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 126,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 127,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 128,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 129,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 130,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 131,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 132,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 133,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 134,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 135,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 136,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 137,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 138,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 139,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 140,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 141,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 142,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 143,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 144,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 145,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 146,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 147,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 148,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 149,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 150,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 151,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 152,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 153,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 154,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 155,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 156,
+   "op": "rename",
+   "note": "9 rows"
+  },
+  {
+   "i": 157,
+   "op": "rename",
+   "note": "2 rows"
+  },
+  {
+   "i": 158,
+   "op": "rename",
+   "note": "8 rows"
+  },
+  {
+   "i": 159,
+   "op": "rename",
+   "note": "3 rows"
+  },
+  {
+   "i": 160,
+   "op": "rename",
+   "note": "1 rows (rows 13086 -> 13087)"
+  },
+  {
+   "i": 161,
+   "op": "rename",
+   "note": "2 rows (rows 13087 -> 13088)"
+  },
+  {
+   "i": 162,
+   "op": "rename",
+   "note": "3 rows (rows 13088 -> 13089)"
+  },
+  {
+   "i": 163,
+   "op": "rename",
+   "note": "2 rows (rows 13089 -> 13090)"
+  },
+  {
+   "i": 164,
+   "op": "rename",
+   "note": "1 rows (rows 13090 -> 13091)"
+  },
+  {
+   "i": 165,
+   "op": "rename",
+   "note": "4 rows (rows 13091 -> 13092)"
+  },
+  {
+   "i": 166,
+   "op": "add",
+   "note": "Transnistria 1992..2025 4086 km2"
+  },
+  {
+   "i": 167,
+   "op": "add",
+   "note": "Republic of Moldova 1992..2025 1378 km2"
+  },
+  {
+   "i": 168,
+   "op": "add",
+   "note": "South Ossetia 1992..2025 1518 km2"
+  },
+  {
+   "i": 169,
+   "op": "delete",
+   "note": "2 rows (rows 13095 -> 13093)"
+  },
+  {
+   "i": 170,
+   "op": "add",
+   "note": "Crimea 2014..2025 21806 km2"
+  },
+  {
+   "i": 171,
+   "op": "add",
+   "note": "Nagorno-Karabakh 1992..1995 5161 km2"
+  },
+  {
+   "i": 172,
+   "op": "add",
+   "note": "Nagorno-Karabakh 1996..2022 12698 km2"
+  },
+  {
+   "i": 173,
+   "op": "reshape",
+   "note": "1 rows (rows 13096 -> 13097)"
+  },
+  {
+   "i": 174,
+   "op": "reshape",
+   "note": "1 rows"
+  },
+  {
+   "i": 175,
+   "op": "add",
+   "note": "Republic of Azerbaijan 2023..2023 12698 km2"
+  },
+  {
+   "i": 176,
+   "op": "add",
+   "note": "Republic of Azerbaijan 2024..2025 12698 km2"
+  },
+  {
+   "i": 177,
+   "op": "add",
+   "note": "West Bank 1967..2025 5929 km2"
+  },
+  {
+   "i": 178,
+   "op": "add",
+   "note": "Gaza Strip 1949..2025 366 km2"
+  },
+  {
+   "i": 179,
+   "op": "add",
+   "note": "Golan Heights 1967..2025 1304 km2"
+  },
+  {
+   "i": 180,
+   "op": "rename",
+   "note": "2 rows"
+  },
+  {
+   "i": 181,
+   "op": "rename",
+   "note": "2 rows (rows 13102 -> 13103)"
+  },
+  {
+   "i": 182,
+   "op": "rename",
+   "note": "2 rows"
+  },
+  {
+   "i": 183,
+   "op": "reshape",
+   "note": "1 rows (rows 13103 -> 13104)"
+  },
+  {
+   "i": 184,
+   "op": "reshape",
+   "note": "1 rows"
+  },
+  {
+   "i": 185,
+   "op": "reshape",
+   "note": "1 rows"
+  },
+  {
+   "i": 186,
+   "op": "reshape",
+   "note": "1 rows"
+  },
+  {
+   "i": 187,
+   "op": "rename",
+   "note": "11 rows (rows 13104 -> 13105)"
+  },
+  {
+   "i": 188,
+   "op": "rename",
+   "note": "2 rows (rows 13105 -> 13107)"
+  },
+  {
+   "i": 189,
+   "op": "rename",
+   "note": "5 rows"
+  },
+  {
+   "i": 190,
+   "op": "rename",
+   "note": "2 rows (rows 13107 -> 13108)"
+  },
+  {
+   "i": 191,
+   "op": "rename",
+   "note": "6 rows (rows 13108 -> 13109)"
+  },
+  {
+   "i": 192,
+   "op": "rename",
+   "note": "6 rows"
+  },
+  {
+   "i": 193,
+   "op": "rename",
+   "note": "3 rows"
+  },
+  {
+   "i": 194,
+   "op": "rename",
+   "note": "1 rows"
+  },
+  {
+   "i": 195,
+   "op": "rename",
+   "note": "9 rows"
+  },
+  {
+   "i": 196,
+   "op": "rename",
+   "note": "10 rows"
+  },
+  {
+   "i": 197,
+   "op": "rename",
+   "note": "8 rows (rows 13109 -> 13110)"
+  },
+  {
+   "i": 198,
+   "op": "rename",
+   "note": "2 rows (rows 13110 -> 13111)"
+  },
+  {
+   "i": 199,
+   "op": "rename",
+   "note": "10 rows"
+  },
+  {
+   "i": 200,
+   "op": "rename",
+   "note": "11 rows"
+  },
+  {
+   "i": 201,
+   "op": "rename",
+   "note": "7 rows"
+  },
+  {
+   "i": 202,
+   "op": "rename",
+   "note": "7 rows (rows 13111 -> 13112)"
+  },
+  {
+   "i": 203,
+   "op": "rename",
+   "note": "15 rows (rows 13112 -> 13113)"
+  },
+  {
+   "i": 204,
+   "op": "rename",
+   "note": "2 rows (rows 13113 -> 13114)"
+  },
+  {
+   "i": 205,
+   "op": "rename",
+   "note": "3 rows"
+  },
+  {
+   "i": 206,
+   "op": "rename",
+   "note": "5 rows"
+  },
+  {
+   "i": 207,
+   "op": "alias",
+   "note": "Kingdom of Lithuania -> Republic of Lithuania"
+  },
+  {
+   "i": 208,
+   "op": "rename",
+   "note": "2 rows"
+  },
+  {
+   "i": 209,
+   "op": "rename",
+   "note": "6 rows"
+  },
+  {
+   "i": 210,
+   "op": "rename",
+   "note": "2 rows (rows 13114 -> 13115)"
+  },
+  {
+   "i": 211,
+   "op": "rename",
+   "note": "2 rows"
+  },
+  {
+   "i": 212,
+   "op": "rename",
+   "note": "1 rows"
+  },
+  {
+   "i": 213,
+   "op": "rename",
+   "note": "3 rows (rows 13115 -> 13116)"
+  },
+  {
+   "i": 214,
+   "op": "alias",
+   "note": "Yugoslavia -> Kingdom of Yugoslavia"
+  },
+  {
+   "i": 215,
+   "op": "rename",
+   "note": "3 rows (rows 13116 -> 13117)"
+  },
+  {
+   "i": 216,
+   "op": "rename",
+   "note": "1 rows (rows 13117 -> 13119)"
+  },
+  {
+   "i": 217,
+   "op": "rename",
+   "note": "2 rows"
+  },
+  {
+   "i": 218,
+   "op": "rename",
+   "note": "2 rows"
+  },
+  {
+   "i": 219,
+   "op": "add",
+   "note": "Slovak Republic 1939..1944 33902 km2"
+  },
+  {
+   "i": 220,
+   "op": "add",
+   "note": "Kingdom of Kent 692..704 4048 km2"
+  },
+  {
+   "i": 221,
+   "op": "reshape",
+   "note": "1 rows (rows 13121 -> 13122)"
+  },
+  {
+   "i": 222,
+   "op": "reshape",
+   "note": "1 rows"
+  },
+  {
+   "i": 223,
+   "op": "retime",
+   "note": "1 rows"
+  },
+  {
+   "i": 224,
+   "op": "add",
+   "note": "Sasanian Empire 644..651 1905131 km2"
+  }
+ ],
+ "warnings": [],
+ "maxDoubleKm2": 1
+}

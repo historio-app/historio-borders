@@ -1,0 +1,28 @@
+HistorIO border data (historio-borders)
+
+This repository contains data derived from the following sources. Changes made by HistorIO are described below.
+
+1. Cliopatria v0.2.1 (DOI 10.5281/zenodo.23128623)
+   Seshat Global History Databank. Licensed under CC BY 4.0
+   (https://creativecommons.org/licenses/by/4.0/).
+   Changes: polygons simplified, clipped to land, fitted to coastlines, corrected
+   where the source is wrong (see the corrections table in scripts/), time model
+   converted to year frames, names and Wikipedia links kept.
+
+2. historical-basemaps, by A. Ourednik (https://github.com/aourednik/historical-basemaps)
+   Licensed under GPL-3.0. Changes: snapshots simplified and re-encoded as
+   TopoJSON, clipped to land not held by a Cliopatria state in the same year,
+   names matched to identifiers. The derived files and the scripts that make
+   them are provided here under GPL-3.0; see LICENSE.
+
+3. Natural Earth (https://www.naturalearthdata.com/)
+   Public domain. Used for modern borders, coastlines and as a geometry source
+   for corrections.
+
+4. NASA Blue Marble Next Generation (https://visibleearth.nasa.gov/collection/1484/blue-marble)
+   Public domain. Not included here; listed because the app uses it.
+
+The HistorIO application loads these files as separate data at run time.
+It is not part of this repository.
+
+DRAFT pending lawyer review. Final file list to be generated at repository creation.
